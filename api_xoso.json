@@ -26,6 +26,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-11-05",
+        "drawIndex": "1420",
+        "numbers": [
+            6,
+            20,
+            34,
+            41,
+            49,
+            52
+        ],
+        "bonusNumber": 36
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-11-05",
         "drawIndex": "990",
@@ -50,20 +64,6 @@
             29
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-11-05",
-        "drawIndex": "1420",
-        "numbers": [
-            6,
-            20,
-            34,
-            41,
-            49,
-            52
-        ],
-        "bonusNumber": 36
     },
     {
         "type": "Lotto 5/35",
@@ -92,6 +92,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-11-03",
+        "drawIndex": "1419",
+        "numbers": [
+            10,
+            22,
+            31,
+            39,
+            43,
+            54
+        ],
+        "bonusNumber": 14
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-11-03",
         "drawIndex": "986",
@@ -116,20 +130,6 @@
             33
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-11-03",
-        "drawIndex": "1419",
-        "numbers": [
-            10,
-            22,
-            31,
-            39,
-            43,
-            54
-        ],
-        "bonusNumber": 14
     },
     {
         "type": "Lotto 5/35",
@@ -184,6 +184,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-31",
+        "drawIndex": "1418",
+        "numbers": [
+            12,
+            18,
+            22,
+            26,
+            28,
+            55
+        ],
+        "bonusNumber": 11
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-31",
         "drawIndex": "980",
@@ -208,20 +222,6 @@
             33
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-31",
-        "drawIndex": "1418",
-        "numbers": [
-            12,
-            18,
-            22,
-            26,
-            28,
-            55
-        ],
-        "bonusNumber": 11
     },
     {
         "type": "Lotto 5/35",
@@ -250,6 +250,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-29",
+        "drawIndex": "1417",
+        "numbers": [
+            9,
+            29,
+            33,
+            38,
+            45,
+            46
+        ],
+        "bonusNumber": 53
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-29",
         "drawIndex": "976",
@@ -274,20 +288,6 @@
             34
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-29",
-        "drawIndex": "1417",
-        "numbers": [
-            9,
-            29,
-            33,
-            38,
-            45,
-            46
-        ],
-        "bonusNumber": 53
     },
     {
         "type": "Lotto 5/35",
@@ -316,6 +316,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-27",
+        "drawIndex": "1416",
+        "numbers": [
+            9,
+            18,
+            27,
+            28,
+            31,
+            35
+        ],
+        "bonusNumber": 50
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-27",
         "drawIndex": "972",
@@ -340,20 +354,6 @@
             35
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-27",
-        "drawIndex": "1416",
-        "numbers": [
-            9,
-            18,
-            27,
-            28,
-            31,
-            35
-        ],
-        "bonusNumber": 50
     },
     {
         "type": "Lotto 5/35",
@@ -408,6 +408,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-24",
+        "drawIndex": "1415",
+        "numbers": [
+            6,
+            7,
+            18,
+            41,
+            44,
+            50
+        ],
+        "bonusNumber": 53
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-24",
         "drawIndex": "966",
@@ -432,20 +446,6 @@
             27
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-24",
-        "drawIndex": "1415",
-        "numbers": [
-            6,
-            7,
-            18,
-            41,
-            44,
-            50
-        ],
-        "bonusNumber": 53
     },
     {
         "type": "Lotto 5/35",
@@ -474,6 +474,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-22",
+        "drawIndex": "1414",
+        "numbers": [
+            14,
+            19,
+            24,
+            31,
+            34,
+            42
+        ],
+        "bonusNumber": 37
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-22",
         "drawIndex": "962",
@@ -498,20 +512,6 @@
             27
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-22",
-        "drawIndex": "1414",
-        "numbers": [
-            14,
-            19,
-            24,
-            31,
-            34,
-            42
-        ],
-        "bonusNumber": 37
     },
     {
         "type": "Lotto 5/35",
@@ -540,6 +540,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-20",
+        "drawIndex": "1413",
+        "numbers": [
+            13,
+            20,
+            23,
+            30,
+            50,
+            55
+        ],
+        "bonusNumber": 45
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-20",
         "drawIndex": "958",
@@ -564,20 +578,6 @@
             17
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-20",
-        "drawIndex": "1413",
-        "numbers": [
-            13,
-            20,
-            23,
-            30,
-            50,
-            55
-        ],
-        "bonusNumber": 45
     },
     {
         "type": "Lotto 5/35",
@@ -632,6 +632,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-17",
+        "drawIndex": "1412",
+        "numbers": [
+            1,
+            10,
+            11,
+            12,
+            16,
+            37
+        ],
+        "bonusNumber": 48
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-17",
         "drawIndex": "952",
@@ -656,20 +670,6 @@
             34
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-17",
-        "drawIndex": "1412",
-        "numbers": [
-            1,
-            10,
-            11,
-            12,
-            16,
-            37
-        ],
-        "bonusNumber": 48
     },
     {
         "type": "Lotto 5/35",
@@ -698,6 +698,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-15",
+        "drawIndex": "1411",
+        "numbers": [
+            7,
+            23,
+            25,
+            42,
+            45,
+            51
+        ],
+        "bonusNumber": 4
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-15",
         "drawIndex": "948",
@@ -722,20 +736,6 @@
             25
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-15",
-        "drawIndex": "1411",
-        "numbers": [
-            7,
-            23,
-            25,
-            42,
-            45,
-            51
-        ],
-        "bonusNumber": 4
     },
     {
         "type": "Lotto 5/35",
@@ -764,6 +764,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-13",
+        "drawIndex": "1410",
+        "numbers": [
+            2,
+            14,
+            27,
+            40,
+            50,
+            53
+        ],
+        "bonusNumber": 26
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-13",
         "drawIndex": "944",
@@ -788,20 +802,6 @@
             33
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-13",
-        "drawIndex": "1410",
-        "numbers": [
-            2,
-            14,
-            27,
-            40,
-            50,
-            53
-        ],
-        "bonusNumber": 26
     },
     {
         "type": "Lotto 5/35",
@@ -856,6 +856,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-10",
+        "drawIndex": "1409",
+        "numbers": [
+            14,
+            17,
+            21,
+            23,
+            24,
+            39
+        ],
+        "bonusNumber": 30
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-10",
         "drawIndex": "938",
@@ -880,20 +894,6 @@
             29
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-10",
-        "drawIndex": "1409",
-        "numbers": [
-            14,
-            17,
-            21,
-            23,
-            24,
-            39
-        ],
-        "bonusNumber": 30
     },
     {
         "type": "Lotto 5/35",
@@ -922,6 +922,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-08",
+        "drawIndex": "1408",
+        "numbers": [
+            1,
+            7,
+            12,
+            27,
+            31,
+            52
+        ],
+        "bonusNumber": 6
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-08",
         "drawIndex": "934",
@@ -946,20 +960,6 @@
             25
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-08",
-        "drawIndex": "1408",
-        "numbers": [
-            1,
-            7,
-            12,
-            27,
-            31,
-            52
-        ],
-        "bonusNumber": 6
     },
     {
         "type": "Lotto 5/35",
@@ -988,6 +988,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-06",
+        "drawIndex": "1407",
+        "numbers": [
+            6,
+            7,
+            18,
+            20,
+            24,
+            27
+        ],
+        "bonusNumber": 1
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-06",
         "drawIndex": "930",
@@ -1008,20 +1022,6 @@
             21,
             22,
             23,
-            24,
-            27
-        ],
-        "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-06",
-        "drawIndex": "1407",
-        "numbers": [
-            6,
-            7,
-            18,
-            20,
             24,
             27
         ],
@@ -1080,6 +1080,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-03",
+        "drawIndex": "1406",
+        "numbers": [
+            7,
+            11,
+            13,
+            16,
+            18,
+            54
+        ],
+        "bonusNumber": 41
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-03",
         "drawIndex": "924",
@@ -1104,20 +1118,6 @@
             17
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-03",
-        "drawIndex": "1406",
-        "numbers": [
-            7,
-            11,
-            13,
-            16,
-            18,
-            54
-        ],
-        "bonusNumber": 41
     },
     {
         "type": "Lotto 5/35",
@@ -1146,6 +1146,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-10-01",
+        "drawIndex": "1405",
+        "numbers": [
+            4,
+            5,
+            13,
+            34,
+            52,
+            55
+        ],
+        "bonusNumber": 1
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-10-01",
         "drawIndex": "920",
@@ -1170,20 +1184,6 @@
             32
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-10-01",
-        "drawIndex": "1405",
-        "numbers": [
-            4,
-            5,
-            13,
-            34,
-            52,
-            55
-        ],
-        "bonusNumber": 1
     },
     {
         "type": "Lotto 5/35",
@@ -1212,6 +1212,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-29",
+        "drawIndex": "1404",
+        "numbers": [
+            2,
+            4,
+            13,
+            17,
+            35,
+            36
+        ],
+        "bonusNumber": 11
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-29",
         "drawIndex": "916",
@@ -1236,20 +1250,6 @@
             30
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-29",
-        "drawIndex": "1404",
-        "numbers": [
-            2,
-            4,
-            13,
-            17,
-            35,
-            36
-        ],
-        "bonusNumber": 11
     },
     {
         "type": "Lotto 5/35",
@@ -1304,6 +1304,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-26",
+        "drawIndex": "1403",
+        "numbers": [
+            14,
+            18,
+            21,
+            38,
+            48,
+            52
+        ],
+        "bonusNumber": 49
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-26",
         "drawIndex": "910",
@@ -1328,20 +1342,6 @@
             35
         ],
         "bonusNumber": 11
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-26",
-        "drawIndex": "1403",
-        "numbers": [
-            14,
-            18,
-            21,
-            38,
-            48,
-            52
-        ],
-        "bonusNumber": 49
     },
     {
         "type": "Lotto 5/35",
@@ -1370,6 +1370,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-24",
+        "drawIndex": "1402",
+        "numbers": [
+            1,
+            13,
+            23,
+            25,
+            26,
+            28
+        ],
+        "bonusNumber": 27
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-24",
         "drawIndex": "906",
@@ -1394,20 +1408,6 @@
             32
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-24",
-        "drawIndex": "1402",
-        "numbers": [
-            1,
-            13,
-            23,
-            25,
-            26,
-            28
-        ],
-        "bonusNumber": 27
     },
     {
         "type": "Lotto 5/35",
@@ -1436,6 +1436,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-22",
+        "drawIndex": "1401",
+        "numbers": [
+            1,
+            3,
+            9,
+            11,
+            41,
+            46
+        ],
+        "bonusNumber": 10
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-22",
         "drawIndex": "902",
@@ -1460,20 +1474,6 @@
             30
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-22",
-        "drawIndex": "1401",
-        "numbers": [
-            1,
-            3,
-            9,
-            11,
-            41,
-            46
-        ],
-        "bonusNumber": 10
     },
     {
         "type": "Lotto 5/35",
@@ -1528,6 +1528,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-19",
+        "drawIndex": "1400",
+        "numbers": [
+            4,
+            7,
+            11,
+            18,
+            22,
+            25
+        ],
+        "bonusNumber": 50
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-19",
         "drawIndex": "896",
@@ -1552,20 +1566,6 @@
             31
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-19",
-        "drawIndex": "1400",
-        "numbers": [
-            4,
-            7,
-            11,
-            18,
-            22,
-            25
-        ],
-        "bonusNumber": 50
     },
     {
         "type": "Lotto 5/35",
@@ -1594,6 +1594,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-17",
+        "drawIndex": "1399",
+        "numbers": [
+            6,
+            11,
+            25,
+            27,
+            37,
+            45
+        ],
+        "bonusNumber": 15
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-17",
         "drawIndex": "892",
@@ -1618,20 +1632,6 @@
             35
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-17",
-        "drawIndex": "1399",
-        "numbers": [
-            6,
-            11,
-            25,
-            27,
-            37,
-            45
-        ],
-        "bonusNumber": 15
     },
     {
         "type": "Lotto 5/35",
@@ -1660,6 +1660,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-15",
+        "drawIndex": "1398",
+        "numbers": [
+            24,
+            27,
+            32,
+            36,
+            38,
+            47
+        ],
+        "bonusNumber": 52
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-15",
         "drawIndex": "888",
@@ -1684,20 +1698,6 @@
             35
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-15",
-        "drawIndex": "1398",
-        "numbers": [
-            24,
-            27,
-            32,
-            36,
-            38,
-            47
-        ],
-        "bonusNumber": 52
     },
     {
         "type": "Lotto 5/35",
@@ -1752,6 +1752,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-12",
+        "drawIndex": "1397",
+        "numbers": [
+            7,
+            24,
+            31,
+            43,
+            47,
+            54
+        ],
+        "bonusNumber": 2
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-12",
         "drawIndex": "882",
@@ -1776,20 +1790,6 @@
             30
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-12",
-        "drawIndex": "1397",
-        "numbers": [
-            7,
-            24,
-            31,
-            43,
-            47,
-            54
-        ],
-        "bonusNumber": 2
     },
     {
         "type": "Lotto 5/35",
@@ -1818,6 +1818,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-10",
+        "drawIndex": "1396",
+        "numbers": [
+            2,
+            5,
+            28,
+            32,
+            51,
+            53
+        ],
+        "bonusNumber": 50
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-10",
         "drawIndex": "878",
@@ -1842,20 +1856,6 @@
             27
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-10",
-        "drawIndex": "1396",
-        "numbers": [
-            2,
-            5,
-            28,
-            32,
-            51,
-            53
-        ],
-        "bonusNumber": 50
     },
     {
         "type": "Lotto 5/35",
@@ -1884,6 +1884,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-08",
+        "drawIndex": "1395",
+        "numbers": [
+            8,
+            11,
+            14,
+            23,
+            25,
+            54
+        ],
+        "bonusNumber": 17
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-08",
         "drawIndex": "874",
@@ -1908,20 +1922,6 @@
             28
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-08",
-        "drawIndex": "1395",
-        "numbers": [
-            8,
-            11,
-            14,
-            23,
-            25,
-            54
-        ],
-        "bonusNumber": 17
     },
     {
         "type": "Lotto 5/35",
@@ -1976,6 +1976,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-05",
+        "drawIndex": "1394",
+        "numbers": [
+            9,
+            11,
+            24,
+            31,
+            33,
+            47
+        ],
+        "bonusNumber": 21
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-05",
         "drawIndex": "868",
@@ -2000,20 +2014,6 @@
             35
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-05",
-        "drawIndex": "1394",
-        "numbers": [
-            9,
-            11,
-            24,
-            31,
-            33,
-            47
-        ],
-        "bonusNumber": 21
     },
     {
         "type": "Lotto 5/35",
@@ -2042,6 +2042,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-03",
+        "drawIndex": "1393",
+        "numbers": [
+            8,
+            9,
+            16,
+            42,
+            46,
+            47
+        ],
+        "bonusNumber": 11
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-03",
         "drawIndex": "864",
@@ -2066,20 +2080,6 @@
             30
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-03",
-        "drawIndex": "1393",
-        "numbers": [
-            8,
-            9,
-            16,
-            42,
-            46,
-            47
-        ],
-        "bonusNumber": 11
     },
     {
         "type": "Lotto 5/35",
@@ -2108,6 +2108,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-09-01",
+        "drawIndex": "1392",
+        "numbers": [
+            1,
+            17,
+            41,
+            44,
+            49,
+            55
+        ],
+        "bonusNumber": 45
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-09-01",
         "drawIndex": "860",
@@ -2132,20 +2146,6 @@
             34
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-09-01",
-        "drawIndex": "1392",
-        "numbers": [
-            1,
-            17,
-            41,
-            44,
-            49,
-            55
-        ],
-        "bonusNumber": 45
     },
     {
         "type": "Lotto 5/35",
@@ -2200,6 +2200,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-29",
+        "drawIndex": "1391",
+        "numbers": [
+            5,
+            10,
+            15,
+            29,
+            34,
+            45
+        ],
+        "bonusNumber": 24
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-29",
         "drawIndex": "854",
@@ -2224,20 +2238,6 @@
             34
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-29",
-        "drawIndex": "1391",
-        "numbers": [
-            5,
-            10,
-            15,
-            29,
-            34,
-            45
-        ],
-        "bonusNumber": 24
     },
     {
         "type": "Lotto 5/35",
@@ -2266,6 +2266,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-27",
+        "drawIndex": "1390",
+        "numbers": [
+            1,
+            3,
+            11,
+            21,
+            26,
+            44
+        ],
+        "bonusNumber": 10
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-27",
         "drawIndex": "850",
@@ -2290,20 +2304,6 @@
             33
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-27",
-        "drawIndex": "1390",
-        "numbers": [
-            1,
-            3,
-            11,
-            21,
-            26,
-            44
-        ],
-        "bonusNumber": 10
     },
     {
         "type": "Lotto 5/35",
@@ -2332,6 +2332,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-25",
+        "drawIndex": "1389",
+        "numbers": [
+            5,
+            7,
+            13,
+            18,
+            31,
+            40
+        ],
+        "bonusNumber": 14
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-25",
         "drawIndex": "846",
@@ -2356,20 +2370,6 @@
             31
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-25",
-        "drawIndex": "1389",
-        "numbers": [
-            5,
-            7,
-            13,
-            18,
-            31,
-            40
-        ],
-        "bonusNumber": 14
     },
     {
         "type": "Lotto 5/35",
@@ -2424,6 +2424,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-22",
+        "drawIndex": "1388",
+        "numbers": [
+            9,
+            18,
+            19,
+            21,
+            25,
+            36
+        ],
+        "bonusNumber": 8
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-22",
         "drawIndex": "840",
@@ -2448,20 +2462,6 @@
             35
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-22",
-        "drawIndex": "1388",
-        "numbers": [
-            9,
-            18,
-            19,
-            21,
-            25,
-            36
-        ],
-        "bonusNumber": 8
     },
     {
         "type": "Lotto 5/35",
@@ -2490,6 +2490,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-20",
+        "drawIndex": "1387",
+        "numbers": [
+            2,
+            8,
+            29,
+            38,
+            39,
+            51
+        ],
+        "bonusNumber": 47
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-20",
         "drawIndex": "836",
@@ -2514,20 +2528,6 @@
             30
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-20",
-        "drawIndex": "1387",
-        "numbers": [
-            2,
-            8,
-            29,
-            38,
-            39,
-            51
-        ],
-        "bonusNumber": 47
     },
     {
         "type": "Lotto 5/35",
@@ -2556,6 +2556,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-18",
+        "drawIndex": "1386",
+        "numbers": [
+            3,
+            15,
+            18,
+            38,
+            41,
+            48
+        ],
+        "bonusNumber": 30
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-18",
         "drawIndex": "832",
@@ -2580,20 +2594,6 @@
             35
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-18",
-        "drawIndex": "1386",
-        "numbers": [
-            3,
-            15,
-            18,
-            38,
-            41,
-            48
-        ],
-        "bonusNumber": 30
     },
     {
         "type": "Lotto 5/35",
@@ -2648,6 +2648,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-15",
+        "drawIndex": "1385",
+        "numbers": [
+            16,
+            20,
+            25,
+            27,
+            30,
+            50
+        ],
+        "bonusNumber": 2
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-15",
         "drawIndex": "826",
@@ -2672,20 +2686,6 @@
             35
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-15",
-        "drawIndex": "1385",
-        "numbers": [
-            16,
-            20,
-            25,
-            27,
-            30,
-            50
-        ],
-        "bonusNumber": 2
     },
     {
         "type": "Lotto 5/35",
@@ -2714,6 +2714,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-13",
+        "drawIndex": "1384",
+        "numbers": [
+            5,
+            9,
+            27,
+            29,
+            45,
+            46
+        ],
+        "bonusNumber": 42
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-13",
         "drawIndex": "822",
@@ -2738,20 +2752,6 @@
             34
         ],
         "bonusNumber": 2
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-13",
-        "drawIndex": "1384",
-        "numbers": [
-            5,
-            9,
-            27,
-            29,
-            45,
-            46
-        ],
-        "bonusNumber": 42
     },
     {
         "type": "Lotto 5/35",
@@ -2780,6 +2780,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-11",
+        "drawIndex": "1383",
+        "numbers": [
+            2,
+            7,
+            19,
+            20,
+            39,
+            50
+        ],
+        "bonusNumber": 31
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-11",
         "drawIndex": "818",
@@ -2804,20 +2818,6 @@
             33
         ],
         "bonusNumber": 11
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-11",
-        "drawIndex": "1383",
-        "numbers": [
-            2,
-            7,
-            19,
-            20,
-            39,
-            50
-        ],
-        "bonusNumber": 31
     },
     {
         "type": "Lotto 5/35",
@@ -2872,6 +2872,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-08",
+        "drawIndex": "1382",
+        "numbers": [
+            5,
+            29,
+            33,
+            38,
+            40,
+            45
+        ],
+        "bonusNumber": 37
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-08",
         "drawIndex": "812",
@@ -2896,20 +2910,6 @@
             30
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-08",
-        "drawIndex": "1382",
-        "numbers": [
-            5,
-            29,
-            33,
-            38,
-            40,
-            45
-        ],
-        "bonusNumber": 37
     },
     {
         "type": "Lotto 5/35",
@@ -2938,6 +2938,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-06",
+        "drawIndex": "1381",
+        "numbers": [
+            14,
+            18,
+            23,
+            35,
+            51,
+            55
+        ],
+        "bonusNumber": 1
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-06",
         "drawIndex": "808",
@@ -2962,20 +2976,6 @@
             23
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-06",
-        "drawIndex": "1381",
-        "numbers": [
-            14,
-            18,
-            23,
-            35,
-            51,
-            55
-        ],
-        "bonusNumber": 1
     },
     {
         "type": "Lotto 5/35",
@@ -3004,6 +3004,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-04",
+        "drawIndex": "1380",
+        "numbers": [
+            14,
+            39,
+            40,
+            42,
+            47,
+            54
+        ],
+        "bonusNumber": 31
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-04",
         "drawIndex": "804",
@@ -3028,20 +3042,6 @@
             34
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-04",
-        "drawIndex": "1380",
-        "numbers": [
-            14,
-            39,
-            40,
-            42,
-            47,
-            54
-        ],
-        "bonusNumber": 31
     },
     {
         "type": "Lotto 5/35",
@@ -3096,6 +3096,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-08-01",
+        "drawIndex": "1379",
+        "numbers": [
+            11,
+            14,
+            16,
+            44,
+            49,
+            55
+        ],
+        "bonusNumber": 39
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-08-01",
         "drawIndex": "798",
@@ -3120,20 +3134,6 @@
             34
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-08-01",
-        "drawIndex": "1379",
-        "numbers": [
-            11,
-            14,
-            16,
-            44,
-            49,
-            55
-        ],
-        "bonusNumber": 39
     },
     {
         "type": "Lotto 5/35",
@@ -3162,6 +3162,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-30",
+        "drawIndex": "1378",
+        "numbers": [
+            2,
+            12,
+            24,
+            28,
+            43,
+            49
+        ],
+        "bonusNumber": 51
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-30",
         "drawIndex": "794",
@@ -3186,20 +3200,6 @@
             18
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-30",
-        "drawIndex": "1378",
-        "numbers": [
-            2,
-            12,
-            24,
-            28,
-            43,
-            49
-        ],
-        "bonusNumber": 51
     },
     {
         "type": "Lotto 5/35",
@@ -3228,6 +3228,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-28",
+        "drawIndex": "1377",
+        "numbers": [
+            7,
+            22,
+            23,
+            27,
+            41,
+            44
+        ],
+        "bonusNumber": 48
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-28",
         "drawIndex": "790",
@@ -3252,20 +3266,6 @@
             35
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-28",
-        "drawIndex": "1377",
-        "numbers": [
-            7,
-            22,
-            23,
-            27,
-            41,
-            44
-        ],
-        "bonusNumber": 48
     },
     {
         "type": "Lotto 5/35",
@@ -3320,6 +3320,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-25",
+        "drawIndex": "1376",
+        "numbers": [
+            5,
+            9,
+            27,
+            33,
+            37,
+            50
+        ],
+        "bonusNumber": 48
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-25",
         "drawIndex": "784",
@@ -3344,20 +3358,6 @@
             19
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-25",
-        "drawIndex": "1376",
-        "numbers": [
-            5,
-            9,
-            27,
-            33,
-            37,
-            50
-        ],
-        "bonusNumber": 48
     },
     {
         "type": "Lotto 5/35",
@@ -3386,6 +3386,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-23",
+        "drawIndex": "1375",
+        "numbers": [
+            1,
+            3,
+            8,
+            38,
+            40,
+            55
+        ],
+        "bonusNumber": 36
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-23",
         "drawIndex": "780",
@@ -3410,20 +3424,6 @@
             28
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-23",
-        "drawIndex": "1375",
-        "numbers": [
-            1,
-            3,
-            8,
-            38,
-            40,
-            55
-        ],
-        "bonusNumber": 36
     },
     {
         "type": "Lotto 5/35",
@@ -3452,6 +3452,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-21",
+        "drawIndex": "1374",
+        "numbers": [
+            8,
+            11,
+            22,
+            24,
+            32,
+            39
+        ],
+        "bonusNumber": 13
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-21",
         "drawIndex": "776",
@@ -3476,20 +3490,6 @@
             27
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-21",
-        "drawIndex": "1374",
-        "numbers": [
-            8,
-            11,
-            22,
-            24,
-            32,
-            39
-        ],
-        "bonusNumber": 13
     },
     {
         "type": "Lotto 5/35",
@@ -3544,6 +3544,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-18",
+        "drawIndex": "1373",
+        "numbers": [
+            22,
+            41,
+            45,
+            48,
+            54,
+            55
+        ],
+        "bonusNumber": 16
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-18",
         "drawIndex": "770",
@@ -3568,20 +3582,6 @@
             34
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-18",
-        "drawIndex": "1373",
-        "numbers": [
-            22,
-            41,
-            45,
-            48,
-            54,
-            55
-        ],
-        "bonusNumber": 16
     },
     {
         "type": "Lotto 5/35",
@@ -3610,6 +3610,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-16",
+        "drawIndex": "1372",
+        "numbers": [
+            19,
+            20,
+            33,
+            45,
+            48,
+            53
+        ],
+        "bonusNumber": 21
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-16",
         "drawIndex": "766",
@@ -3634,20 +3648,6 @@
             29
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-16",
-        "drawIndex": "1372",
-        "numbers": [
-            19,
-            20,
-            33,
-            45,
-            48,
-            53
-        ],
-        "bonusNumber": 21
     },
     {
         "type": "Lotto 5/35",
@@ -3676,6 +3676,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-14",
+        "drawIndex": "1371",
+        "numbers": [
+            10,
+            24,
+            30,
+            35,
+            45,
+            51
+        ],
+        "bonusNumber": 33
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-14",
         "drawIndex": "762",
@@ -3700,20 +3714,6 @@
             34
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-14",
-        "drawIndex": "1371",
-        "numbers": [
-            10,
-            24,
-            30,
-            35,
-            45,
-            51
-        ],
-        "bonusNumber": 33
     },
     {
         "type": "Lotto 5/35",
@@ -3768,6 +3768,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-11",
+        "drawIndex": "1370",
+        "numbers": [
+            9,
+            17,
+            20,
+            33,
+            41,
+            42
+        ],
+        "bonusNumber": 40
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-11",
         "drawIndex": "756",
@@ -3792,20 +3806,6 @@
             33
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-11",
-        "drawIndex": "1370",
-        "numbers": [
-            9,
-            17,
-            20,
-            33,
-            41,
-            42
-        ],
-        "bonusNumber": 40
     },
     {
         "type": "Lotto 5/35",
@@ -3834,6 +3834,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-09",
+        "drawIndex": "1369",
+        "numbers": [
+            2,
+            9,
+            10,
+            14,
+            17,
+            49
+        ],
+        "bonusNumber": 45
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-09",
         "drawIndex": "752",
@@ -3858,20 +3872,6 @@
             33
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-09",
-        "drawIndex": "1369",
-        "numbers": [
-            2,
-            9,
-            10,
-            14,
-            17,
-            49
-        ],
-        "bonusNumber": 45
     },
     {
         "type": "Lotto 5/35",
@@ -3900,6 +3900,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-07",
+        "drawIndex": "1368",
+        "numbers": [
+            4,
+            6,
+            25,
+            32,
+            33,
+            44
+        ],
+        "bonusNumber": 8
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-07",
         "drawIndex": "748",
@@ -3924,20 +3938,6 @@
             31
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-07",
-        "drawIndex": "1368",
-        "numbers": [
-            4,
-            6,
-            25,
-            32,
-            33,
-            44
-        ],
-        "bonusNumber": 8
     },
     {
         "type": "Lotto 5/35",
@@ -3992,6 +3992,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-04",
+        "drawIndex": "1367",
+        "numbers": [
+            13,
+            15,
+            18,
+            23,
+            31,
+            43
+        ],
+        "bonusNumber": 41
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-04",
         "drawIndex": "742",
@@ -4016,20 +4030,6 @@
             35
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-04",
-        "drawIndex": "1367",
-        "numbers": [
-            13,
-            15,
-            18,
-            23,
-            31,
-            43
-        ],
-        "bonusNumber": 41
     },
     {
         "type": "Lotto 5/35",
@@ -4058,6 +4058,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-07-02",
+        "drawIndex": "1366",
+        "numbers": [
+            5,
+            11,
+            28,
+            34,
+            41,
+            42
+        ],
+        "bonusNumber": 49
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-07-02",
         "drawIndex": "738",
@@ -4082,20 +4096,6 @@
             31
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-07-02",
-        "drawIndex": "1366",
-        "numbers": [
-            5,
-            11,
-            28,
-            34,
-            41,
-            42
-        ],
-        "bonusNumber": 49
     },
     {
         "type": "Lotto 5/35",
@@ -4124,6 +4124,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-30",
+        "drawIndex": "1365",
+        "numbers": [
+            5,
+            13,
+            18,
+            22,
+            43,
+            44
+        ],
+        "bonusNumber": 47
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-30",
         "drawIndex": "734",
@@ -4148,20 +4162,6 @@
             33
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-30",
-        "drawIndex": "1365",
-        "numbers": [
-            5,
-            13,
-            18,
-            22,
-            43,
-            44
-        ],
-        "bonusNumber": 47
     },
     {
         "type": "Lotto 5/35",
@@ -4216,6 +4216,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-27",
+        "drawIndex": "1364",
+        "numbers": [
+            7,
+            16,
+            21,
+            23,
+            28,
+            52
+        ],
+        "bonusNumber": 54
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-27",
         "drawIndex": "728",
@@ -4240,20 +4254,6 @@
             22
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-27",
-        "drawIndex": "1364",
-        "numbers": [
-            7,
-            16,
-            21,
-            23,
-            28,
-            52
-        ],
-        "bonusNumber": 54
     },
     {
         "type": "Lotto 5/35",
@@ -4282,6 +4282,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-25",
+        "drawIndex": "1363",
+        "numbers": [
+            1,
+            3,
+            8,
+            15,
+            35,
+            55
+        ],
+        "bonusNumber": 23
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-25",
         "drawIndex": "724",
@@ -4306,20 +4320,6 @@
             35
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-25",
-        "drawIndex": "1363",
-        "numbers": [
-            1,
-            3,
-            8,
-            15,
-            35,
-            55
-        ],
-        "bonusNumber": 23
     },
     {
         "type": "Lotto 5/35",
@@ -4348,6 +4348,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-23",
+        "drawIndex": "1362",
+        "numbers": [
+            1,
+            13,
+            28,
+            38,
+            40,
+            46
+        ],
+        "bonusNumber": 5
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-23",
         "drawIndex": "720",
@@ -4372,20 +4386,6 @@
             21
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-23",
-        "drawIndex": "1362",
-        "numbers": [
-            1,
-            13,
-            28,
-            38,
-            40,
-            46
-        ],
-        "bonusNumber": 5
     },
     {
         "type": "Lotto 5/35",
@@ -4440,6 +4440,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-20",
+        "drawIndex": "1361",
+        "numbers": [
+            16,
+            23,
+            26,
+            30,
+            52,
+            53
+        ],
+        "bonusNumber": 46
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-20",
         "drawIndex": "714",
@@ -4464,20 +4478,6 @@
             33
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-20",
-        "drawIndex": "1361",
-        "numbers": [
-            16,
-            23,
-            26,
-            30,
-            52,
-            53
-        ],
-        "bonusNumber": 46
     },
     {
         "type": "Lotto 5/35",
@@ -4506,6 +4506,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-18",
+        "drawIndex": "1360",
+        "numbers": [
+            1,
+            4,
+            14,
+            20,
+            46,
+            49
+        ],
+        "bonusNumber": 36
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-18",
         "drawIndex": "710",
@@ -4530,20 +4544,6 @@
             22
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-18",
-        "drawIndex": "1360",
-        "numbers": [
-            1,
-            4,
-            14,
-            20,
-            46,
-            49
-        ],
-        "bonusNumber": 36
     },
     {
         "type": "Lotto 5/35",
@@ -4572,6 +4572,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-16",
+        "drawIndex": "1359",
+        "numbers": [
+            2,
+            4,
+            5,
+            7,
+            31,
+            40
+        ],
+        "bonusNumber": 14
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-16",
         "drawIndex": "706",
@@ -4596,20 +4610,6 @@
             32
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-16",
-        "drawIndex": "1359",
-        "numbers": [
-            2,
-            4,
-            5,
-            7,
-            31,
-            40
-        ],
-        "bonusNumber": 14
     },
     {
         "type": "Lotto 5/35",
@@ -4664,6 +4664,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-13",
+        "drawIndex": "1358",
+        "numbers": [
+            2,
+            8,
+            19,
+            33,
+            36,
+            47
+        ],
+        "bonusNumber": 42
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-13",
         "drawIndex": "700",
@@ -4688,20 +4702,6 @@
             31
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-13",
-        "drawIndex": "1358",
-        "numbers": [
-            2,
-            8,
-            19,
-            33,
-            36,
-            47
-        ],
-        "bonusNumber": 42
     },
     {
         "type": "Lotto 5/35",
@@ -4730,6 +4730,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-11",
+        "drawIndex": "1357",
+        "numbers": [
+            1,
+            8,
+            17,
+            24,
+            40,
+            48
+        ],
+        "bonusNumber": 46
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-11",
         "drawIndex": "696",
@@ -4754,20 +4768,6 @@
             31
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-11",
-        "drawIndex": "1357",
-        "numbers": [
-            1,
-            8,
-            17,
-            24,
-            40,
-            48
-        ],
-        "bonusNumber": 46
     },
     {
         "type": "Lotto 5/35",
@@ -4796,6 +4796,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-09",
+        "drawIndex": "1356",
+        "numbers": [
+            6,
+            8,
+            18,
+            27,
+            32,
+            34
+        ],
+        "bonusNumber": 35
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-09",
         "drawIndex": "692",
@@ -4820,20 +4834,6 @@
             32
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-09",
-        "drawIndex": "1356",
-        "numbers": [
-            6,
-            8,
-            18,
-            27,
-            32,
-            34
-        ],
-        "bonusNumber": 35
     },
     {
         "type": "Lotto 5/35",
@@ -4888,6 +4888,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-06",
+        "drawIndex": "1355",
+        "numbers": [
+            3,
+            11,
+            16,
+            37,
+            39,
+            41
+        ],
+        "bonusNumber": 28
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-06",
         "drawIndex": "686",
@@ -4912,20 +4926,6 @@
             33
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-06",
-        "drawIndex": "1355",
-        "numbers": [
-            3,
-            11,
-            16,
-            37,
-            39,
-            41
-        ],
-        "bonusNumber": 28
     },
     {
         "type": "Lotto 5/35",
@@ -4954,6 +4954,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-06-04",
+        "drawIndex": "1354",
+        "numbers": [
+            23,
+            24,
+            28,
+            29,
+            39,
+            43
+        ],
+        "bonusNumber": 45
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-04",
         "drawIndex": "682",
@@ -4980,20 +4994,6 @@
         "bonusNumber": 12
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-06-04",
-        "drawIndex": "1354",
-        "numbers": [
-            23,
-            24,
-            28,
-            29,
-            39,
-            43
-        ],
-        "bonusNumber": 45
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2026-06-03",
         "drawIndex": "680",
@@ -5042,58 +5042,6 @@
             26,
             33,
             34
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-06-02",
-        "drawIndex": "678",
-        "numbers": [
-            6,
-            18,
-            21,
-            29,
-            35
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-06-02",
-        "drawIndex": "678",
-        "numbers": [
-            6,
-            18,
-            21,
-            29,
-            35
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-06-02",
-        "drawIndex": "677",
-        "numbers": [
-            2,
-            11,
-            15,
-            16,
-            24
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-06-02",
-        "drawIndex": "677",
-        "numbers": [
-            2,
-            11,
-            15,
-            16,
-            24
         ],
         "bonusNumber": 9
     },
@@ -5113,6 +5061,58 @@
     },
     {
         "type": "Lotto 5/35",
+        "drawDate": "2026-06-02",
+        "drawIndex": "678",
+        "numbers": [
+            6,
+            18,
+            21,
+            29,
+            35
+        ],
+        "bonusNumber": 9
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-06-02",
+        "drawIndex": "678",
+        "numbers": [
+            6,
+            18,
+            21,
+            29,
+            35
+        ],
+        "bonusNumber": 9
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-06-02",
+        "drawIndex": "677",
+        "numbers": [
+            2,
+            11,
+            15,
+            16,
+            24
+        ],
+        "bonusNumber": 9
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-06-02",
+        "drawIndex": "677",
+        "numbers": [
+            2,
+            11,
+            15,
+            16,
+            24
+        ],
+        "bonusNumber": 9
+    },
+    {
+        "type": "Lotto 5/35",
         "drawDate": "2026-06-01",
         "drawIndex": "676",
         "numbers": [
@@ -5214,6 +5214,20 @@
             31
         ],
         "bonusNumber": 9
+    },
+    {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-30",
+        "drawIndex": "1352",
+        "numbers": [
+            2,
+            8,
+            20,
+            24,
+            25,
+            42
+        ],
+        "bonusNumber": 44
     },
     {
         "type": "Lotto 5/35",
@@ -5242,20 +5256,6 @@
         "bonusNumber": 4
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-30",
-        "drawIndex": "1352",
-        "numbers": [
-            2,
-            8,
-            20,
-            24,
-            25,
-            42
-        ],
-        "bonusNumber": 44
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-29",
         "drawIndex": "670",
@@ -5280,6 +5280,20 @@
             30
         ],
         "bonusNumber": 10
+    },
+    {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-28",
+        "drawIndex": "1351",
+        "numbers": [
+            8,
+            11,
+            21,
+            25,
+            31,
+            53
+        ],
+        "bonusNumber": 54
     },
     {
         "type": "Lotto 5/35",
@@ -5308,20 +5322,6 @@
         "bonusNumber": 8
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-28",
-        "drawIndex": "1351",
-        "numbers": [
-            8,
-            11,
-            21,
-            25,
-            31,
-            53
-        ],
-        "bonusNumber": 54
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-27",
         "drawIndex": "666",
@@ -5348,6 +5348,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-26",
+        "drawIndex": "1350",
+        "numbers": [
+            1,
+            14,
+            15,
+            19,
+            23,
+            34
+        ],
+        "bonusNumber": 29
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-26",
         "drawIndex": "664",
@@ -5372,20 +5386,6 @@
             31
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-26",
-        "drawIndex": "1350",
-        "numbers": [
-            1,
-            14,
-            15,
-            19,
-            23,
-            34
-        ],
-        "bonusNumber": 29
     },
     {
         "type": "Lotto 5/35",
@@ -5440,6 +5440,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-23",
+        "drawIndex": "1349",
+        "numbers": [
+            17,
+            21,
+            22,
+            27,
+            38,
+            49
+        ],
+        "bonusNumber": 3
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-23",
         "drawIndex": "658",
@@ -5464,20 +5478,6 @@
             26
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-23",
-        "drawIndex": "1349",
-        "numbers": [
-            17,
-            21,
-            22,
-            27,
-            38,
-            49
-        ],
-        "bonusNumber": 3
     },
     {
         "type": "Vietlott 6/55",
@@ -5560,6 +5560,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-16",
+        "drawIndex": "1346",
+        "numbers": [
+            8,
+            25,
+            32,
+            36,
+            39,
+            47
+        ],
+        "bonusNumber": 50
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-16",
         "drawIndex": "644",
@@ -5584,20 +5598,6 @@
             33
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-16",
-        "drawIndex": "1346",
-        "numbers": [
-            8,
-            25,
-            32,
-            36,
-            39,
-            47
-        ],
-        "bonusNumber": 50
     },
     {
         "type": "Lotto 5/35",
@@ -5626,6 +5626,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-14",
+        "drawIndex": "1345",
+        "numbers": [
+            26,
+            28,
+            39,
+            41,
+            48,
+            55
+        ],
+        "bonusNumber": 50
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-14",
         "drawIndex": "640",
@@ -5650,20 +5664,6 @@
             34
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-14",
-        "drawIndex": "1345",
-        "numbers": [
-            26,
-            28,
-            39,
-            41,
-            48,
-            55
-        ],
-        "bonusNumber": 50
     },
     {
         "type": "Lotto 5/35",
@@ -5692,6 +5692,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-12",
+        "drawIndex": "1344",
+        "numbers": [
+            2,
+            11,
+            22,
+            26,
+            31,
+            38
+        ],
+        "bonusNumber": 15
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-12",
         "drawIndex": "636",
@@ -5716,20 +5730,6 @@
             21
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-12",
-        "drawIndex": "1344",
-        "numbers": [
-            2,
-            11,
-            22,
-            26,
-            31,
-            38
-        ],
-        "bonusNumber": 15
     },
     {
         "type": "Lotto 5/35",
@@ -5784,6 +5784,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-09",
+        "drawIndex": "1343",
+        "numbers": [
+            3,
+            10,
+            32,
+            37,
+            45,
+            55
+        ],
+        "bonusNumber": 46
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-09",
         "drawIndex": "630",
@@ -5808,20 +5822,6 @@
             33
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-09",
-        "drawIndex": "1343",
-        "numbers": [
-            3,
-            10,
-            32,
-            37,
-            45,
-            55
-        ],
-        "bonusNumber": 46
     },
     {
         "type": "Lotto 5/35",
@@ -5850,6 +5850,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-07",
+        "drawIndex": "1342",
+        "numbers": [
+            13,
+            14,
+            33,
+            44,
+            46,
+            50
+        ],
+        "bonusNumber": 47
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-07",
         "drawIndex": "626",
@@ -5874,20 +5888,6 @@
             27
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-07",
-        "drawIndex": "1342",
-        "numbers": [
-            13,
-            14,
-            33,
-            44,
-            46,
-            50
-        ],
-        "bonusNumber": 47
     },
     {
         "type": "Lotto 5/35",
@@ -5916,6 +5916,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-05",
+        "drawIndex": "1341",
+        "numbers": [
+            4,
+            6,
+            8,
+            17,
+            30,
+            50
+        ],
+        "bonusNumber": 32
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-05",
         "drawIndex": "622",
@@ -5940,20 +5954,6 @@
             33
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-05",
-        "drawIndex": "1341",
-        "numbers": [
-            4,
-            6,
-            8,
-            17,
-            30,
-            50
-        ],
-        "bonusNumber": 32
     },
     {
         "type": "Lotto 5/35",
@@ -6008,6 +6008,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-05-02",
+        "drawIndex": "1340",
+        "numbers": [
+            9,
+            21,
+            22,
+            26,
+            33,
+            51
+        ],
+        "bonusNumber": 17
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-05-02",
         "drawIndex": "616",
@@ -6032,20 +6046,6 @@
             35
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-05-02",
-        "drawIndex": "1340",
-        "numbers": [
-            9,
-            21,
-            22,
-            26,
-            33,
-            51
-        ],
-        "bonusNumber": 17
     },
     {
         "type": "Lotto 5/35",
@@ -6074,6 +6074,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-30",
+        "drawIndex": "1339",
+        "numbers": [
+            9,
+            15,
+            21,
+            25,
+            29,
+            50
+        ],
+        "bonusNumber": 16
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-30",
         "drawIndex": "612",
@@ -6098,20 +6112,6 @@
             20
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-30",
-        "drawIndex": "1339",
-        "numbers": [
-            9,
-            15,
-            21,
-            25,
-            29,
-            50
-        ],
-        "bonusNumber": 16
     },
     {
         "type": "Lotto 5/35",
@@ -6140,6 +6140,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-28",
+        "drawIndex": "1338",
+        "numbers": [
+            24,
+            25,
+            34,
+            51,
+            52,
+            53
+        ],
+        "bonusNumber": 35
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-28",
         "drawIndex": "608",
@@ -6164,20 +6178,6 @@
             35
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-28",
-        "drawIndex": "1338",
-        "numbers": [
-            24,
-            25,
-            34,
-            51,
-            52,
-            53
-        ],
-        "bonusNumber": 35
     },
     {
         "type": "Lotto 5/35",
@@ -6232,6 +6232,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-25",
+        "drawIndex": "1337",
+        "numbers": [
+            4,
+            7,
+            10,
+            29,
+            41,
+            46
+        ],
+        "bonusNumber": 43
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-25",
         "drawIndex": "602",
@@ -6258,20 +6272,6 @@
         "bonusNumber": 1
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-25",
-        "drawIndex": "1337",
-        "numbers": [
-            4,
-            7,
-            10,
-            29,
-            41,
-            46
-        ],
-        "bonusNumber": 43
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-24",
         "drawIndex": "600",
@@ -6320,58 +6320,6 @@
             6,
             14,
             27
-        ],
-        "bonusNumber": 5
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-04-23",
-        "drawIndex": "598",
-        "numbers": [
-            1,
-            8,
-            16,
-            21,
-            34
-        ],
-        "bonusNumber": 11
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-04-23",
-        "drawIndex": "598",
-        "numbers": [
-            1,
-            8,
-            16,
-            21,
-            34
-        ],
-        "bonusNumber": 11
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-04-23",
-        "drawIndex": "597",
-        "numbers": [
-            6,
-            7,
-            26,
-            30,
-            33
-        ],
-        "bonusNumber": 5
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-04-23",
-        "drawIndex": "597",
-        "numbers": [
-            6,
-            7,
-            26,
-            30,
-            33
         ],
         "bonusNumber": 5
     },
@@ -6391,6 +6339,58 @@
     },
     {
         "type": "Lotto 5/35",
+        "drawDate": "2026-04-23",
+        "drawIndex": "598",
+        "numbers": [
+            1,
+            8,
+            16,
+            21,
+            34
+        ],
+        "bonusNumber": 11
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-04-23",
+        "drawIndex": "598",
+        "numbers": [
+            1,
+            8,
+            16,
+            21,
+            34
+        ],
+        "bonusNumber": 11
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-04-23",
+        "drawIndex": "597",
+        "numbers": [
+            6,
+            7,
+            26,
+            30,
+            33
+        ],
+        "bonusNumber": 5
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-04-23",
+        "drawIndex": "597",
+        "numbers": [
+            6,
+            7,
+            26,
+            30,
+            33
+        ],
+        "bonusNumber": 5
+    },
+    {
+        "type": "Lotto 5/35",
         "drawDate": "2026-04-22",
         "drawIndex": "596",
         "numbers": [
@@ -6438,58 +6438,6 @@
             9,
             17,
             34
-        ],
-        "bonusNumber": 1
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-04-21",
-        "drawIndex": "594",
-        "numbers": [
-            4,
-            7,
-            18,
-            19,
-            25
-        ],
-        "bonusNumber": 1
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-04-21",
-        "drawIndex": "594",
-        "numbers": [
-            4,
-            7,
-            18,
-            19,
-            25
-        ],
-        "bonusNumber": 1
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-04-21",
-        "drawIndex": "593",
-        "numbers": [
-            3,
-            12,
-            13,
-            30,
-            31
-        ],
-        "bonusNumber": 1
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-04-21",
-        "drawIndex": "593",
-        "numbers": [
-            3,
-            12,
-            13,
-            30,
-            31
         ],
         "bonusNumber": 1
     },
@@ -6508,6 +6456,58 @@
         "bonusNumber": 15
     },
     {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-04-21",
+        "drawIndex": "594",
+        "numbers": [
+            4,
+            7,
+            18,
+            19,
+            25
+        ],
+        "bonusNumber": 1
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-04-21",
+        "drawIndex": "594",
+        "numbers": [
+            4,
+            7,
+            18,
+            19,
+            25
+        ],
+        "bonusNumber": 1
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-04-21",
+        "drawIndex": "593",
+        "numbers": [
+            3,
+            12,
+            13,
+            30,
+            31
+        ],
+        "bonusNumber": 1
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-04-21",
+        "drawIndex": "593",
+        "numbers": [
+            3,
+            12,
+            13,
+            30,
+            31
+        ],
+        "bonusNumber": 1
+    },
+    {
         "type": "Vietlott 6/55",
         "drawDate": "2026-04-18",
         "drawIndex": "1334",
@@ -6520,6 +6520,20 @@
             39
         ],
         "bonusNumber": 24
+    },
+    {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-16",
+        "drawIndex": "1333",
+        "numbers": [
+            2,
+            7,
+            15,
+            22,
+            47,
+            52
+        ],
+        "bonusNumber": 55
     },
     {
         "type": "Lotto 5/35",
@@ -6548,20 +6562,6 @@
         "bonusNumber": 6
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-16",
-        "drawIndex": "1333",
-        "numbers": [
-            2,
-            7,
-            15,
-            22,
-            47,
-            52
-        ],
-        "bonusNumber": 55
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-15",
         "drawIndex": "582",
@@ -6588,6 +6588,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-14",
+        "drawIndex": "1332",
+        "numbers": [
+            8,
+            16,
+            22,
+            35,
+            39,
+            47
+        ],
+        "bonusNumber": 28
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-14",
         "drawIndex": "580",
@@ -6612,20 +6626,6 @@
             27
         ],
         "bonusNumber": 11
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-14",
-        "drawIndex": "1332",
-        "numbers": [
-            8,
-            16,
-            22,
-            35,
-            39,
-            47
-        ],
-        "bonusNumber": 28
     },
     {
         "type": "Lotto 5/35",
@@ -6680,6 +6680,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-11",
+        "drawIndex": "1331",
+        "numbers": [
+            13,
+            26,
+            29,
+            38,
+            49,
+            53
+        ],
+        "bonusNumber": 7
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-11",
         "drawIndex": "574",
@@ -6704,20 +6718,6 @@
             32
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-11",
-        "drawIndex": "1331",
-        "numbers": [
-            13,
-            26,
-            29,
-            38,
-            49,
-            53
-        ],
-        "bonusNumber": 7
     },
     {
         "type": "Lotto 5/35",
@@ -6746,6 +6746,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-09",
+        "drawIndex": "1330",
+        "numbers": [
+            16,
+            18,
+            22,
+            29,
+            41,
+            53
+        ],
+        "bonusNumber": 38
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-09",
         "drawIndex": "570",
@@ -6770,20 +6784,6 @@
             34
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-09",
-        "drawIndex": "1330",
-        "numbers": [
-            16,
-            18,
-            22,
-            29,
-            41,
-            53
-        ],
-        "bonusNumber": 38
     },
     {
         "type": "Lotto 5/35",
@@ -6812,6 +6812,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-07",
+        "drawIndex": "1329",
+        "numbers": [
+            1,
+            13,
+            23,
+            31,
+            44,
+            53
+        ],
+        "bonusNumber": 32
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-07",
         "drawIndex": "566",
@@ -6836,20 +6850,6 @@
             34
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-07",
-        "drawIndex": "1329",
-        "numbers": [
-            1,
-            13,
-            23,
-            31,
-            44,
-            53
-        ],
-        "bonusNumber": 32
     },
     {
         "type": "Lotto 5/35",
@@ -6904,6 +6904,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-04",
+        "drawIndex": "1328",
+        "numbers": [
+            5,
+            7,
+            10,
+            23,
+            30,
+            54
+        ],
+        "bonusNumber": 40
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-04",
         "drawIndex": "560",
@@ -6928,20 +6942,6 @@
             31
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-04",
-        "drawIndex": "1328",
-        "numbers": [
-            5,
-            7,
-            10,
-            23,
-            30,
-            54
-        ],
-        "bonusNumber": 40
     },
     {
         "type": "Lotto 5/35",
@@ -6970,6 +6970,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-04-02",
+        "drawIndex": "1327",
+        "numbers": [
+            9,
+            21,
+            32,
+            34,
+            52,
+            53
+        ],
+        "bonusNumber": 22
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-04-02",
         "drawIndex": "556",
@@ -6994,20 +7008,6 @@
             30
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-04-02",
-        "drawIndex": "1327",
-        "numbers": [
-            9,
-            21,
-            32,
-            34,
-            52,
-            53
-        ],
-        "bonusNumber": 22
     },
     {
         "type": "Lotto 5/35",
@@ -7036,6 +7036,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-31",
+        "drawIndex": "1326",
+        "numbers": [
+            15,
+            16,
+            22,
+            38,
+            43,
+            48
+        ],
+        "bonusNumber": 11
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-31",
         "drawIndex": "552",
@@ -7060,20 +7074,6 @@
             32
         ],
         "bonusNumber": 2
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-31",
-        "drawIndex": "1326",
-        "numbers": [
-            15,
-            16,
-            22,
-            38,
-            43,
-            48
-        ],
-        "bonusNumber": 11
     },
     {
         "type": "Lotto 5/35",
@@ -7128,6 +7128,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-28",
+        "drawIndex": "1325",
+        "numbers": [
+            7,
+            13,
+            21,
+            30,
+            33,
+            42
+        ],
+        "bonusNumber": 39
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-28",
         "drawIndex": "546",
@@ -7152,20 +7166,6 @@
             26
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-28",
-        "drawIndex": "1325",
-        "numbers": [
-            7,
-            13,
-            21,
-            30,
-            33,
-            42
-        ],
-        "bonusNumber": 39
     },
     {
         "type": "Lotto 5/35",
@@ -7194,6 +7194,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-26",
+        "drawIndex": "1324",
+        "numbers": [
+            3,
+            9,
+            10,
+            34,
+            38,
+            44
+        ],
+        "bonusNumber": 51
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-26",
         "drawIndex": "542",
@@ -7218,20 +7232,6 @@
             33
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-26",
-        "drawIndex": "1324",
-        "numbers": [
-            3,
-            9,
-            10,
-            34,
-            38,
-            44
-        ],
-        "bonusNumber": 51
     },
     {
         "type": "Lotto 5/35",
@@ -7260,6 +7260,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-24",
+        "drawIndex": "1323",
+        "numbers": [
+            12,
+            19,
+            25,
+            26,
+            32,
+            45
+        ],
+        "bonusNumber": 3
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-24",
         "drawIndex": "538",
@@ -7284,20 +7298,6 @@
             30
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-24",
-        "drawIndex": "1323",
-        "numbers": [
-            12,
-            19,
-            25,
-            26,
-            32,
-            45
-        ],
-        "bonusNumber": 3
     },
     {
         "type": "Lotto 5/35",
@@ -7352,6 +7352,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-21",
+        "drawIndex": "1322",
+        "numbers": [
+            1,
+            6,
+            40,
+            43,
+            47,
+            53
+        ],
+        "bonusNumber": 3
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-21",
         "drawIndex": "532",
@@ -7374,20 +7388,6 @@
             11,
             13,
             17
-        ],
-        "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-21",
-        "drawIndex": "1322",
-        "numbers": [
-            1,
-            6,
-            40,
-            43,
-            47,
-            53
         ],
         "bonusNumber": 3
     },
@@ -7418,6 +7418,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-19",
+        "drawIndex": "1321",
+        "numbers": [
+            7,
+            9,
+            17,
+            31,
+            34,
+            36
+        ],
+        "bonusNumber": 55
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-19",
         "drawIndex": "528",
@@ -7442,20 +7456,6 @@
             22
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-19",
-        "drawIndex": "1321",
-        "numbers": [
-            7,
-            9,
-            17,
-            31,
-            34,
-            36
-        ],
-        "bonusNumber": 55
     },
     {
         "type": "Lotto 5/35",
@@ -7484,6 +7484,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-17",
+        "drawIndex": "1320",
+        "numbers": [
+            12,
+            26,
+            28,
+            43,
+            50,
+            54
+        ],
+        "bonusNumber": 52
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-17",
         "drawIndex": "524",
@@ -7508,20 +7522,6 @@
             35
         ],
         "bonusNumber": 2
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-17",
-        "drawIndex": "1320",
-        "numbers": [
-            12,
-            26,
-            28,
-            43,
-            50,
-            54
-        ],
-        "bonusNumber": 52
     },
     {
         "type": "Lotto 5/35",
@@ -7602,58 +7602,6 @@
         "bonusNumber": 2
     },
     {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-03-14",
-        "drawIndex": "518",
-        "numbers": [
-            6,
-            13,
-            19,
-            27,
-            31
-        ],
-        "bonusNumber": 8
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-03-14",
-        "drawIndex": "518",
-        "numbers": [
-            6,
-            13,
-            19,
-            27,
-            31
-        ],
-        "bonusNumber": 8
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-03-14",
-        "drawIndex": "517",
-        "numbers": [
-            4,
-            5,
-            6,
-            24,
-            26
-        ],
-        "bonusNumber": 8
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-03-14",
-        "drawIndex": "517",
-        "numbers": [
-            4,
-            5,
-            6,
-            24,
-            26
-        ],
-        "bonusNumber": 8
-    },
-    {
         "type": "Vietlott 6/55",
         "drawDate": "2026-03-14",
         "drawIndex": "1319",
@@ -7669,6 +7617,58 @@
     },
     {
         "type": "Lotto 5/35",
+        "drawDate": "2026-03-14",
+        "drawIndex": "518",
+        "numbers": [
+            6,
+            13,
+            19,
+            27,
+            31
+        ],
+        "bonusNumber": 8
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-03-14",
+        "drawIndex": "518",
+        "numbers": [
+            6,
+            13,
+            19,
+            27,
+            31
+        ],
+        "bonusNumber": 8
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-03-14",
+        "drawIndex": "517",
+        "numbers": [
+            4,
+            5,
+            6,
+            24,
+            26
+        ],
+        "bonusNumber": 8
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-03-14",
+        "drawIndex": "517",
+        "numbers": [
+            4,
+            5,
+            6,
+            24,
+            26
+        ],
+        "bonusNumber": 8
+    },
+    {
+        "type": "Lotto 5/35",
         "drawDate": "2026-03-13",
         "drawIndex": "516",
         "numbers": [
@@ -7718,58 +7718,6 @@
             25
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-03-12",
-        "drawIndex": "514",
-        "numbers": [
-            5,
-            9,
-            20,
-            29,
-            30
-        ],
-        "bonusNumber": 11
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-03-12",
-        "drawIndex": "514",
-        "numbers": [
-            5,
-            9,
-            20,
-            29,
-            30
-        ],
-        "bonusNumber": 11
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-03-12",
-        "drawIndex": "513",
-        "numbers": [
-            6,
-            8,
-            17,
-            20,
-            24
-        ],
-        "bonusNumber": 10
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-03-12",
-        "drawIndex": "513",
-        "numbers": [
-            6,
-            8,
-            17,
-            20,
-            24
-        ],
-        "bonusNumber": 10
     },
     {
         "type": "Vietlott 6/55",
@@ -7786,6 +7734,58 @@
         "bonusNumber": 54
     },
     {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-03-12",
+        "drawIndex": "514",
+        "numbers": [
+            5,
+            9,
+            20,
+            29,
+            30
+        ],
+        "bonusNumber": 11
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-03-12",
+        "drawIndex": "514",
+        "numbers": [
+            5,
+            9,
+            20,
+            29,
+            30
+        ],
+        "bonusNumber": 11
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-03-12",
+        "drawIndex": "513",
+        "numbers": [
+            6,
+            8,
+            17,
+            20,
+            24
+        ],
+        "bonusNumber": 10
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-03-12",
+        "drawIndex": "513",
+        "numbers": [
+            6,
+            8,
+            17,
+            20,
+            24
+        ],
+        "bonusNumber": 10
+    },
+    {
         "type": "Vietlott 6/55",
         "drawDate": "2026-03-10",
         "drawIndex": "1317",
@@ -7798,6 +7798,20 @@
             54
         ],
         "bonusNumber": 20
+    },
+    {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-07",
+        "drawIndex": "1316",
+        "numbers": [
+            4,
+            32,
+            41,
+            45,
+            50,
+            52
+        ],
+        "bonusNumber": 29
     },
     {
         "type": "Lotto 5/35",
@@ -7826,20 +7840,6 @@
         "bonusNumber": 9
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-07",
-        "drawIndex": "1316",
-        "numbers": [
-            4,
-            32,
-            41,
-            45,
-            50,
-            52
-        ],
-        "bonusNumber": 29
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-06",
         "drawIndex": "502",
@@ -7864,6 +7864,20 @@
             30
         ],
         "bonusNumber": 3
+    },
+    {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-05",
+        "drawIndex": "1315",
+        "numbers": [
+            14,
+            16,
+            35,
+            38,
+            43,
+            51
+        ],
+        "bonusNumber": 37
     },
     {
         "type": "Lotto 5/35",
@@ -7892,20 +7906,6 @@
         "bonusNumber": 2
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-05",
-        "drawIndex": "1315",
-        "numbers": [
-            14,
-            16,
-            35,
-            38,
-            43,
-            51
-        ],
-        "bonusNumber": 37
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-04",
         "drawIndex": "498",
@@ -7932,6 +7932,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-03-03",
+        "drawIndex": "1314",
+        "numbers": [
+            7,
+            13,
+            27,
+            29,
+            43,
+            50
+        ],
+        "bonusNumber": 25
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-03-03",
         "drawIndex": "496",
@@ -7956,20 +7970,6 @@
             32
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-03-03",
-        "drawIndex": "1314",
-        "numbers": [
-            7,
-            13,
-            27,
-            29,
-            43,
-            50
-        ],
-        "bonusNumber": 25
     },
     {
         "type": "Lotto 5/35",
@@ -8024,6 +8024,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-28",
+        "drawIndex": "1313",
+        "numbers": [
+            22,
+            25,
+            31,
+            44,
+            51,
+            54
+        ],
+        "bonusNumber": 36
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-28",
         "drawIndex": "490",
@@ -8048,20 +8062,6 @@
             24
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-28",
-        "drawIndex": "1313",
-        "numbers": [
-            22,
-            25,
-            31,
-            44,
-            51,
-            54
-        ],
-        "bonusNumber": 36
     },
     {
         "type": "Lotto 5/35",
@@ -8090,6 +8090,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-26",
+        "drawIndex": "1312",
+        "numbers": [
+            1,
+            7,
+            10,
+            21,
+            44,
+            51
+        ],
+        "bonusNumber": 46
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-26",
         "drawIndex": "486",
@@ -8114,20 +8128,6 @@
             33
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-26",
-        "drawIndex": "1312",
-        "numbers": [
-            1,
-            7,
-            10,
-            21,
-            44,
-            51
-        ],
-        "bonusNumber": 46
     },
     {
         "type": "Lotto 5/35",
@@ -8156,6 +8156,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-24",
+        "drawIndex": "1311",
+        "numbers": [
+            5,
+            8,
+            18,
+            30,
+            39,
+            54
+        ],
+        "bonusNumber": 51
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-24",
         "drawIndex": "482",
@@ -8180,20 +8194,6 @@
             30
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-24",
-        "drawIndex": "1311",
-        "numbers": [
-            5,
-            8,
-            18,
-            30,
-            39,
-            54
-        ],
-        "bonusNumber": 51
     },
     {
         "type": "Lotto 5/35",
@@ -8248,6 +8248,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-21",
+        "drawIndex": "1310",
+        "numbers": [
+            5,
+            7,
+            26,
+            30,
+            41,
+            45
+        ],
+        "bonusNumber": 12
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-21",
         "drawIndex": "476",
@@ -8272,20 +8286,6 @@
             18
         ],
         "bonusNumber": 2
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-21",
-        "drawIndex": "1310",
-        "numbers": [
-            5,
-            7,
-            26,
-            30,
-            41,
-            45
-        ],
-        "bonusNumber": 12
     },
     {
         "type": "Lotto 5/35",
@@ -8314,6 +8314,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-19",
+        "drawIndex": "1309",
+        "numbers": [
+            1,
+            27,
+            30,
+            43,
+            45,
+            46
+        ],
+        "bonusNumber": 48
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-19",
         "drawIndex": "472",
@@ -8338,20 +8352,6 @@
             30
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-19",
-        "drawIndex": "1309",
-        "numbers": [
-            1,
-            27,
-            30,
-            43,
-            45,
-            46
-        ],
-        "bonusNumber": 48
     },
     {
         "type": "Lotto 5/35",
@@ -8458,6 +8458,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-14",
+        "drawIndex": "1308",
+        "numbers": [
+            2,
+            13,
+            26,
+            32,
+            36,
+            42
+        ],
+        "bonusNumber": 48
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-14",
         "drawIndex": "462",
@@ -8482,20 +8496,6 @@
             34
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-14",
-        "drawIndex": "1308",
-        "numbers": [
-            2,
-            13,
-            26,
-            32,
-            36,
-            42
-        ],
-        "bonusNumber": 48
     },
     {
         "type": "Lotto 5/35",
@@ -8524,6 +8524,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-12",
+        "drawIndex": "1307",
+        "numbers": [
+            8,
+            17,
+            19,
+            31,
+            32,
+            46
+        ],
+        "bonusNumber": 26
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-12",
         "drawIndex": "458",
@@ -8548,20 +8562,6 @@
             29
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-12",
-        "drawIndex": "1307",
-        "numbers": [
-            8,
-            17,
-            19,
-            31,
-            32,
-            46
-        ],
-        "bonusNumber": 26
     },
     {
         "type": "Lotto 5/35",
@@ -8590,6 +8590,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-10",
+        "drawIndex": "1306",
+        "numbers": [
+            13,
+            21,
+            22,
+            26,
+            32,
+            55
+        ],
+        "bonusNumber": 20
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-10",
         "drawIndex": "454",
@@ -8614,20 +8628,6 @@
             31
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-10",
-        "drawIndex": "1306",
-        "numbers": [
-            13,
-            21,
-            22,
-            26,
-            32,
-            55
-        ],
-        "bonusNumber": 20
     },
     {
         "type": "Lotto 5/35",
@@ -8682,6 +8682,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-07",
+        "drawIndex": "1305",
+        "numbers": [
+            3,
+            5,
+            13,
+            15,
+            29,
+            46
+        ],
+        "bonusNumber": 1
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-07",
         "drawIndex": "448",
@@ -8706,20 +8720,6 @@
             31
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-07",
-        "drawIndex": "1305",
-        "numbers": [
-            3,
-            5,
-            13,
-            15,
-            29,
-            46
-        ],
-        "bonusNumber": 1
     },
     {
         "type": "Lotto 5/35",
@@ -8748,6 +8748,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-02-05",
+        "drawIndex": "1304",
+        "numbers": [
+            7,
+            13,
+            16,
+            25,
+            26,
+            55
+        ],
+        "bonusNumber": 9
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-02-05",
         "drawIndex": "444",
@@ -8770,20 +8784,6 @@
             13,
             16,
             20
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-02-05",
-        "drawIndex": "1304",
-        "numbers": [
-            7,
-            13,
-            16,
-            25,
-            26,
-            55
         ],
         "bonusNumber": 9
     },
@@ -8814,58 +8814,6 @@
         "bonusNumber": 3
     },
     {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-02-03",
-        "drawIndex": "440",
-        "numbers": [
-            5,
-            10,
-            11,
-            28,
-            29
-        ],
-        "bonusNumber": 5
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-02-03",
-        "drawIndex": "440",
-        "numbers": [
-            5,
-            10,
-            11,
-            28,
-            29
-        ],
-        "bonusNumber": 5
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-02-03",
-        "drawIndex": "439",
-        "numbers": [
-            19,
-            23,
-            24,
-            32,
-            33
-        ],
-        "bonusNumber": 10
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-02-03",
-        "drawIndex": "439",
-        "numbers": [
-            19,
-            23,
-            24,
-            32,
-            33
-        ],
-        "bonusNumber": 10
-    },
-    {
         "type": "Vietlott 6/55",
         "drawDate": "2026-02-03",
         "drawIndex": "1303",
@@ -8881,6 +8829,58 @@
     },
     {
         "type": "Lotto 5/35",
+        "drawDate": "2026-02-03",
+        "drawIndex": "440",
+        "numbers": [
+            5,
+            10,
+            11,
+            28,
+            29
+        ],
+        "bonusNumber": 5
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-02-03",
+        "drawIndex": "440",
+        "numbers": [
+            5,
+            10,
+            11,
+            28,
+            29
+        ],
+        "bonusNumber": 5
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-02-03",
+        "drawIndex": "439",
+        "numbers": [
+            19,
+            23,
+            24,
+            32,
+            33
+        ],
+        "bonusNumber": 10
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-02-03",
+        "drawIndex": "439",
+        "numbers": [
+            19,
+            23,
+            24,
+            32,
+            33
+        ],
+        "bonusNumber": 10
+    },
+    {
+        "type": "Lotto 5/35",
         "drawDate": "2026-02-02",
         "drawIndex": "438",
         "numbers": [
@@ -8980,58 +8980,6 @@
             19,
             22,
             34
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-01-31",
-        "drawIndex": "434",
-        "numbers": [
-            11,
-            12,
-            16,
-            27,
-            29
-        ],
-        "bonusNumber": 6
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-01-31",
-        "drawIndex": "434",
-        "numbers": [
-            11,
-            12,
-            16,
-            27,
-            29
-        ],
-        "bonusNumber": 6
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-01-31",
-        "drawIndex": "433",
-        "numbers": [
-            7,
-            14,
-            15,
-            26,
-            27
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2026-01-31",
-        "drawIndex": "433",
-        "numbers": [
-            7,
-            14,
-            15,
-            26,
-            27
         ],
         "bonusNumber": 9
     },
@@ -9048,6 +8996,58 @@
             53
         ],
         "bonusNumber": 4
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-01-31",
+        "drawIndex": "434",
+        "numbers": [
+            11,
+            12,
+            16,
+            27,
+            29
+        ],
+        "bonusNumber": 6
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-01-31",
+        "drawIndex": "434",
+        "numbers": [
+            11,
+            12,
+            16,
+            27,
+            29
+        ],
+        "bonusNumber": 6
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-01-31",
+        "drawIndex": "433",
+        "numbers": [
+            7,
+            14,
+            15,
+            26,
+            27
+        ],
+        "bonusNumber": 9
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2026-01-31",
+        "drawIndex": "433",
+        "numbers": [
+            7,
+            14,
+            15,
+            26,
+            27
+        ],
+        "bonusNumber": 9
     },
     {
         "type": "Vietlott 6/55",
@@ -9130,6 +9130,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-24",
+        "drawIndex": "1299",
+        "numbers": [
+            14,
+            24,
+            25,
+            30,
+            35,
+            53
+        ],
+        "bonusNumber": 18
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-24",
         "drawIndex": "420",
@@ -9154,20 +9168,6 @@
             31
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-24",
-        "drawIndex": "1299",
-        "numbers": [
-            14,
-            24,
-            25,
-            30,
-            35,
-            53
-        ],
-        "bonusNumber": 18
     },
     {
         "type": "Lotto 5/35",
@@ -9196,6 +9196,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-22",
+        "drawIndex": "1298",
+        "numbers": [
+            2,
+            20,
+            21,
+            29,
+            36,
+            50
+        ],
+        "bonusNumber": 5
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-22",
         "drawIndex": "416",
@@ -9220,20 +9234,6 @@
             31
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-22",
-        "drawIndex": "1298",
-        "numbers": [
-            2,
-            20,
-            21,
-            29,
-            36,
-            50
-        ],
-        "bonusNumber": 5
     },
     {
         "type": "Lotto 5/35",
@@ -9262,6 +9262,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-20",
+        "drawIndex": "1297",
+        "numbers": [
+            4,
+            20,
+            26,
+            28,
+            37,
+            41
+        ],
+        "bonusNumber": 32
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-20",
         "drawIndex": "412",
@@ -9286,20 +9300,6 @@
             26
         ],
         "bonusNumber": 2
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-20",
-        "drawIndex": "1297",
-        "numbers": [
-            4,
-            20,
-            26,
-            28,
-            37,
-            41
-        ],
-        "bonusNumber": 32
     },
     {
         "type": "Lotto 5/35",
@@ -9354,6 +9354,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-17",
+        "drawIndex": "1296",
+        "numbers": [
+            14,
+            21,
+            23,
+            25,
+            46,
+            48
+        ],
+        "bonusNumber": 54
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-17",
         "drawIndex": "406",
@@ -9378,20 +9392,6 @@
             32
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-17",
-        "drawIndex": "1296",
-        "numbers": [
-            14,
-            21,
-            23,
-            25,
-            46,
-            48
-        ],
-        "bonusNumber": 54
     },
     {
         "type": "Lotto 5/35",
@@ -9420,6 +9420,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-15",
+        "drawIndex": "1295",
+        "numbers": [
+            13,
+            21,
+            31,
+            34,
+            48,
+            55
+        ],
+        "bonusNumber": 27
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-15",
         "drawIndex": "402",
@@ -9444,20 +9458,6 @@
             25
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-15",
-        "drawIndex": "1295",
-        "numbers": [
-            13,
-            21,
-            31,
-            34,
-            48,
-            55
-        ],
-        "bonusNumber": 27
     },
     {
         "type": "Lotto 5/35",
@@ -9486,6 +9486,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-13",
+        "drawIndex": "1294",
+        "numbers": [
+            3,
+            12,
+            25,
+            51,
+            52,
+            55
+        ],
+        "bonusNumber": 43
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-13",
         "drawIndex": "398",
@@ -9510,20 +9524,6 @@
             26
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-13",
-        "drawIndex": "1294",
-        "numbers": [
-            3,
-            12,
-            25,
-            51,
-            52,
-            55
-        ],
-        "bonusNumber": 43
     },
     {
         "type": "Lotto 5/35",
@@ -9578,6 +9578,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-10",
+        "drawIndex": "1293",
+        "numbers": [
+            9,
+            16,
+            30,
+            33,
+            34,
+            38
+        ],
+        "bonusNumber": 49
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-10",
         "drawIndex": "392",
@@ -9602,20 +9616,6 @@
             31
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-10",
-        "drawIndex": "1293",
-        "numbers": [
-            9,
-            16,
-            30,
-            33,
-            34,
-            38
-        ],
-        "bonusNumber": 49
     },
     {
         "type": "Lotto 5/35",
@@ -9644,6 +9644,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-08",
+        "drawIndex": "1292",
+        "numbers": [
+            20,
+            22,
+            36,
+            43,
+            45,
+            50
+        ],
+        "bonusNumber": 47
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-08",
         "drawIndex": "388",
@@ -9668,20 +9682,6 @@
             30
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-08",
-        "drawIndex": "1292",
-        "numbers": [
-            20,
-            22,
-            36,
-            43,
-            45,
-            50
-        ],
-        "bonusNumber": 47
     },
     {
         "type": "Lotto 5/35",
@@ -9710,6 +9710,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-06",
+        "drawIndex": "1291",
+        "numbers": [
+            22,
+            28,
+            29,
+            30,
+            34,
+            47
+        ],
+        "bonusNumber": 20
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-06",
         "drawIndex": "384",
@@ -9734,20 +9748,6 @@
             31
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-06",
-        "drawIndex": "1291",
-        "numbers": [
-            22,
-            28,
-            29,
-            30,
-            34,
-            47
-        ],
-        "bonusNumber": 20
     },
     {
         "type": "Lotto 5/35",
@@ -9802,6 +9802,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-03",
+        "drawIndex": "1290",
+        "numbers": [
+            10,
+            16,
+            17,
+            23,
+            33,
+            36
+        ],
+        "bonusNumber": 42
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-03",
         "drawIndex": "378",
@@ -9826,20 +9840,6 @@
             30
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-03",
-        "drawIndex": "1290",
-        "numbers": [
-            10,
-            16,
-            17,
-            23,
-            33,
-            36
-        ],
-        "bonusNumber": 42
     },
     {
         "type": "Lotto 5/35",
@@ -9868,6 +9868,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2026-01-01",
+        "drawIndex": "1289",
+        "numbers": [
+            5,
+            16,
+            29,
+            33,
+            39,
+            42
+        ],
+        "bonusNumber": 54
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2026-01-01",
         "drawIndex": "374",
@@ -9892,20 +9906,6 @@
             34
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2026-01-01",
-        "drawIndex": "1289",
-        "numbers": [
-            5,
-            16,
-            29,
-            33,
-            39,
-            42
-        ],
-        "bonusNumber": 54
     },
     {
         "type": "Lotto 5/35",
@@ -9934,6 +9934,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-30",
+        "drawIndex": "1288",
+        "numbers": [
+            11,
+            30,
+            35,
+            41,
+            48,
+            55
+        ],
+        "bonusNumber": 38
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-30",
         "drawIndex": "370",
@@ -9958,20 +9972,6 @@
             24
         ],
         "bonusNumber": 11
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-30",
-        "drawIndex": "1288",
-        "numbers": [
-            11,
-            30,
-            35,
-            41,
-            48,
-            55
-        ],
-        "bonusNumber": 38
     },
     {
         "type": "Lotto 5/35",
@@ -10026,6 +10026,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-27",
+        "drawIndex": "1287",
+        "numbers": [
+            16,
+            21,
+            30,
+            37,
+            39,
+            40
+        ],
+        "bonusNumber": 13
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-27",
         "drawIndex": "364",
@@ -10050,20 +10064,6 @@
             33
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-27",
-        "drawIndex": "1287",
-        "numbers": [
-            16,
-            21,
-            30,
-            37,
-            39,
-            40
-        ],
-        "bonusNumber": 13
     },
     {
         "type": "Lotto 5/35",
@@ -10092,6 +10092,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-25",
+        "drawIndex": "1286",
+        "numbers": [
+            4,
+            6,
+            32,
+            37,
+            40,
+            48
+        ],
+        "bonusNumber": 38
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-25",
         "drawIndex": "360",
@@ -10116,20 +10130,6 @@
             33
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-25",
-        "drawIndex": "1286",
-        "numbers": [
-            4,
-            6,
-            32,
-            37,
-            40,
-            48
-        ],
-        "bonusNumber": 38
     },
     {
         "type": "Lotto 5/35",
@@ -10158,6 +10158,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-23",
+        "drawIndex": "1285",
+        "numbers": [
+            2,
+            10,
+            16,
+            25,
+            32,
+            38
+        ],
+        "bonusNumber": 3
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-23",
         "drawIndex": "356",
@@ -10182,20 +10196,6 @@
             35
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-23",
-        "drawIndex": "1285",
-        "numbers": [
-            2,
-            10,
-            16,
-            25,
-            32,
-            38
-        ],
-        "bonusNumber": 3
     },
     {
         "type": "Lotto 5/35",
@@ -10250,6 +10250,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-20",
+        "drawIndex": "1284",
+        "numbers": [
+            22,
+            32,
+            33,
+            35,
+            40,
+            41
+        ],
+        "bonusNumber": 23
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-20",
         "drawIndex": "350",
@@ -10274,20 +10288,6 @@
             30
         ],
         "bonusNumber": 11
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-20",
-        "drawIndex": "1284",
-        "numbers": [
-            22,
-            32,
-            33,
-            35,
-            40,
-            41
-        ],
-        "bonusNumber": 23
     },
     {
         "type": "Lotto 5/35",
@@ -10316,6 +10316,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-18",
+        "drawIndex": "1283",
+        "numbers": [
+            12,
+            14,
+            29,
+            30,
+            39,
+            55
+        ],
+        "bonusNumber": 50
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-18",
         "drawIndex": "346",
@@ -10340,20 +10354,6 @@
             34
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-18",
-        "drawIndex": "1283",
-        "numbers": [
-            12,
-            14,
-            29,
-            30,
-            39,
-            55
-        ],
-        "bonusNumber": 50
     },
     {
         "type": "Lotto 5/35",
@@ -10382,6 +10382,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-16",
+        "drawIndex": "1282",
+        "numbers": [
+            7,
+            36,
+            37,
+            38,
+            52,
+            55
+        ],
+        "bonusNumber": 46
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-16",
         "drawIndex": "342",
@@ -10406,20 +10420,6 @@
             17
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-16",
-        "drawIndex": "1282",
-        "numbers": [
-            7,
-            36,
-            37,
-            38,
-            52,
-            55
-        ],
-        "bonusNumber": 46
     },
     {
         "type": "Lotto 5/35",
@@ -10474,6 +10474,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-13",
+        "drawIndex": "1281",
+        "numbers": [
+            5,
+            8,
+            12,
+            18,
+            20,
+            38
+        ],
+        "bonusNumber": 52
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-13",
         "drawIndex": "336",
@@ -10498,20 +10512,6 @@
             35
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-13",
-        "drawIndex": "1281",
-        "numbers": [
-            5,
-            8,
-            12,
-            18,
-            20,
-            38
-        ],
-        "bonusNumber": 52
     },
     {
         "type": "Lotto 5/35",
@@ -10540,6 +10540,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-11",
+        "drawIndex": "1280",
+        "numbers": [
+            9,
+            13,
+            21,
+            45,
+            48,
+            55
+        ],
+        "bonusNumber": 38
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-11",
         "drawIndex": "332",
@@ -10564,20 +10578,6 @@
             32
         ],
         "bonusNumber": 2
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-11",
-        "drawIndex": "1280",
-        "numbers": [
-            9,
-            13,
-            21,
-            45,
-            48,
-            55
-        ],
-        "bonusNumber": 38
     },
     {
         "type": "Lotto 5/35",
@@ -10606,6 +10606,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-09",
+        "drawIndex": "1279",
+        "numbers": [
+            14,
+            21,
+            26,
+            27,
+            31,
+            43
+        ],
+        "bonusNumber": 42
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-09",
         "drawIndex": "328",
@@ -10630,20 +10644,6 @@
             32
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-09",
-        "drawIndex": "1279",
-        "numbers": [
-            14,
-            21,
-            26,
-            27,
-            31,
-            43
-        ],
-        "bonusNumber": 42
     },
     {
         "type": "Lotto 5/35",
@@ -10698,6 +10698,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-06",
+        "drawIndex": "1278",
+        "numbers": [
+            12,
+            26,
+            34,
+            37,
+            50,
+            52
+        ],
+        "bonusNumber": 15
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-06",
         "drawIndex": "322",
@@ -10722,20 +10736,6 @@
             34
         ],
         "bonusNumber": 11
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-06",
-        "drawIndex": "1278",
-        "numbers": [
-            12,
-            26,
-            34,
-            37,
-            50,
-            52
-        ],
-        "bonusNumber": 15
     },
     {
         "type": "Lotto 5/35",
@@ -10764,6 +10764,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-04",
+        "drawIndex": "1277",
+        "numbers": [
+            10,
+            29,
+            32,
+            33,
+            44,
+            53
+        ],
+        "bonusNumber": 14
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-04",
         "drawIndex": "318",
@@ -10788,20 +10802,6 @@
             26
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-04",
-        "drawIndex": "1277",
-        "numbers": [
-            10,
-            29,
-            32,
-            33,
-            44,
-            53
-        ],
-        "bonusNumber": 14
     },
     {
         "type": "Lotto 5/35",
@@ -10830,6 +10830,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-12-02",
+        "drawIndex": "1276",
+        "numbers": [
+            16,
+            20,
+            24,
+            36,
+            51,
+            54
+        ],
+        "bonusNumber": 10
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-12-02",
         "drawIndex": "314",
@@ -10854,20 +10868,6 @@
             23
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-12-02",
-        "drawIndex": "1276",
-        "numbers": [
-            16,
-            20,
-            24,
-            36,
-            51,
-            54
-        ],
-        "bonusNumber": 10
     },
     {
         "type": "Lotto 5/35",
@@ -10922,6 +10922,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-29",
+        "drawIndex": "1275",
+        "numbers": [
+            4,
+            20,
+            24,
+            27,
+            40,
+            48
+        ],
+        "bonusNumber": 9
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-29",
         "drawIndex": "308",
@@ -10944,20 +10958,6 @@
             22,
             30,
             32
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-29",
-        "drawIndex": "1275",
-        "numbers": [
-            4,
-            20,
-            24,
-            27,
-            40,
-            48
         ],
         "bonusNumber": 9
     },
@@ -10988,6 +10988,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-27",
+        "drawIndex": "1274",
+        "numbers": [
+            4,
+            5,
+            10,
+            11,
+            28,
+            35
+        ],
+        "bonusNumber": 38
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-27",
         "drawIndex": "304",
@@ -11012,20 +11026,6 @@
             32
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-27",
-        "drawIndex": "1274",
-        "numbers": [
-            4,
-            5,
-            10,
-            11,
-            28,
-            35
-        ],
-        "bonusNumber": 38
     },
     {
         "type": "Lotto 5/35",
@@ -11054,6 +11054,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-25",
+        "drawIndex": "1273",
+        "numbers": [
+            23,
+            31,
+            32,
+            42,
+            46,
+            48
+        ],
+        "bonusNumber": 4
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-25",
         "drawIndex": "300",
@@ -11078,20 +11092,6 @@
             33
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-25",
-        "drawIndex": "1273",
-        "numbers": [
-            23,
-            31,
-            32,
-            42,
-            46,
-            48
-        ],
-        "bonusNumber": 4
     },
     {
         "type": "Lotto 5/35",
@@ -11146,6 +11146,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-22",
+        "drawIndex": "1272",
+        "numbers": [
+            8,
+            10,
+            19,
+            29,
+            34,
+            46
+        ],
+        "bonusNumber": 14
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-22",
         "drawIndex": "294",
@@ -11170,20 +11184,6 @@
             31
         ],
         "bonusNumber": 2
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-22",
-        "drawIndex": "1272",
-        "numbers": [
-            8,
-            10,
-            19,
-            29,
-            34,
-            46
-        ],
-        "bonusNumber": 14
     },
     {
         "type": "Lotto 5/35",
@@ -11212,6 +11212,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-20",
+        "drawIndex": "1271",
+        "numbers": [
+            3,
+            12,
+            19,
+            20,
+            31,
+            42
+        ],
+        "bonusNumber": 13
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-20",
         "drawIndex": "290",
@@ -11238,20 +11252,6 @@
         "bonusNumber": 5
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-20",
-        "drawIndex": "1271",
-        "numbers": [
-            3,
-            12,
-            19,
-            20,
-            31,
-            42
-        ],
-        "bonusNumber": 13
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-19",
         "drawIndex": "288",
@@ -11302,58 +11302,6 @@
             34
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-11-18",
-        "drawIndex": "286",
-        "numbers": [
-            8,
-            11,
-            17,
-            21,
-            29
-        ],
-        "bonusNumber": 3
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-11-18",
-        "drawIndex": "286",
-        "numbers": [
-            8,
-            11,
-            17,
-            21,
-            29
-        ],
-        "bonusNumber": 3
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-11-18",
-        "drawIndex": "285",
-        "numbers": [
-            3,
-            17,
-            30,
-            33,
-            34
-        ],
-        "bonusNumber": 8
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-11-18",
-        "drawIndex": "285",
-        "numbers": [
-            3,
-            17,
-            30,
-            33,
-            34
-        ],
-        "bonusNumber": 8
     },
     {
         "type": "Vietlott 6/55",
@@ -11368,6 +11316,58 @@
             49
         ],
         "bonusNumber": 5
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-11-18",
+        "drawIndex": "286",
+        "numbers": [
+            8,
+            11,
+            17,
+            21,
+            29
+        ],
+        "bonusNumber": 3
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-11-18",
+        "drawIndex": "286",
+        "numbers": [
+            8,
+            11,
+            17,
+            21,
+            29
+        ],
+        "bonusNumber": 3
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-11-18",
+        "drawIndex": "285",
+        "numbers": [
+            3,
+            17,
+            30,
+            33,
+            34
+        ],
+        "bonusNumber": 8
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-11-18",
+        "drawIndex": "285",
+        "numbers": [
+            3,
+            17,
+            30,
+            33,
+            34
+        ],
+        "bonusNumber": 8
     },
     {
         "type": "Lotto 5/35",
@@ -11502,6 +11502,20 @@
         "bonusNumber": 13
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-11",
+        "drawIndex": "1267",
+        "numbers": [
+            11,
+            20,
+            28,
+            41,
+            47,
+            54
+        ],
+        "bonusNumber": 31
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-11",
         "drawIndex": "272",
@@ -11526,20 +11540,6 @@
             33
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-11",
-        "drawIndex": "1267",
-        "numbers": [
-            11,
-            20,
-            28,
-            41,
-            47,
-            54
-        ],
-        "bonusNumber": 31
     },
     {
         "type": "Lotto 5/35",
@@ -11594,6 +11594,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-08",
+        "drawIndex": "1266",
+        "numbers": [
+            14,
+            16,
+            19,
+            22,
+            27,
+            44
+        ],
+        "bonusNumber": 18
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-08",
         "drawIndex": "266",
@@ -11618,20 +11632,6 @@
             34
         ],
         "bonusNumber": 12
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-08",
-        "drawIndex": "1266",
-        "numbers": [
-            14,
-            16,
-            19,
-            22,
-            27,
-            44
-        ],
-        "bonusNumber": 18
     },
     {
         "type": "Lotto 5/35",
@@ -11660,6 +11660,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-06",
+        "drawIndex": "1265",
+        "numbers": [
+            16,
+            20,
+            29,
+            33,
+            36,
+            49
+        ],
+        "bonusNumber": 6
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-06",
         "drawIndex": "262",
@@ -11684,20 +11698,6 @@
             28
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-06",
-        "drawIndex": "1265",
-        "numbers": [
-            16,
-            20,
-            29,
-            33,
-            36,
-            49
-        ],
-        "bonusNumber": 6
     },
     {
         "type": "Lotto 5/35",
@@ -11726,6 +11726,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-04",
+        "drawIndex": "1264",
+        "numbers": [
+            15,
+            27,
+            29,
+            31,
+            36,
+            43
+        ],
+        "bonusNumber": 38
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-04",
         "drawIndex": "258",
@@ -11750,20 +11764,6 @@
             34
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-04",
-        "drawIndex": "1264",
-        "numbers": [
-            15,
-            27,
-            29,
-            31,
-            36,
-            43
-        ],
-        "bonusNumber": 38
     },
     {
         "type": "Lotto 5/35",
@@ -11818,6 +11818,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-11-01",
+        "drawIndex": "1263",
+        "numbers": [
+            7,
+            11,
+            28,
+            29,
+            31,
+            33
+        ],
+        "bonusNumber": 8
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-11-01",
         "drawIndex": "252",
@@ -11842,20 +11856,6 @@
             30
         ],
         "bonusNumber": 9
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-11-01",
-        "drawIndex": "1263",
-        "numbers": [
-            7,
-            11,
-            28,
-            29,
-            31,
-            33
-        ],
-        "bonusNumber": 8
     },
     {
         "type": "Lotto 5/35",
@@ -11884,6 +11884,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-30",
+        "drawIndex": "1262",
+        "numbers": [
+            20,
+            23,
+            35,
+            41,
+            47,
+            55
+        ],
+        "bonusNumber": 37
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-30",
         "drawIndex": "248",
@@ -11908,20 +11922,6 @@
             34
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-30",
-        "drawIndex": "1262",
-        "numbers": [
-            20,
-            23,
-            35,
-            41,
-            47,
-            55
-        ],
-        "bonusNumber": 37
     },
     {
         "type": "Lotto 5/35",
@@ -11950,6 +11950,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-28",
+        "drawIndex": "1261",
+        "numbers": [
+            6,
+            8,
+            10,
+            22,
+            25,
+            54
+        ],
+        "bonusNumber": 9
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-28",
         "drawIndex": "244",
@@ -11974,20 +11988,6 @@
             34
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-28",
-        "drawIndex": "1261",
-        "numbers": [
-            6,
-            8,
-            10,
-            22,
-            25,
-            54
-        ],
-        "bonusNumber": 9
     },
     {
         "type": "Lotto 5/35",
@@ -12042,6 +12042,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-25",
+        "drawIndex": "1260",
+        "numbers": [
+            3,
+            5,
+            11,
+            13,
+            24,
+            27
+        ],
+        "bonusNumber": 45
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-25",
         "drawIndex": "238",
@@ -12066,20 +12080,6 @@
             25
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-25",
-        "drawIndex": "1260",
-        "numbers": [
-            3,
-            5,
-            11,
-            13,
-            24,
-            27
-        ],
-        "bonusNumber": 45
     },
     {
         "type": "Lotto 5/35",
@@ -12108,6 +12108,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-23",
+        "drawIndex": "1259",
+        "numbers": [
+            8,
+            10,
+            21,
+            48,
+            49,
+            50
+        ],
+        "bonusNumber": 40
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-23",
         "drawIndex": "234",
@@ -12132,20 +12146,6 @@
             30
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-23",
-        "drawIndex": "1259",
-        "numbers": [
-            8,
-            10,
-            21,
-            48,
-            49,
-            50
-        ],
-        "bonusNumber": 40
     },
     {
         "type": "Lotto 5/35",
@@ -12174,6 +12174,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-21",
+        "drawIndex": "1258",
+        "numbers": [
+            3,
+            11,
+            12,
+            14,
+            22,
+            40
+        ],
+        "bonusNumber": 41
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-21",
         "drawIndex": "230",
@@ -12198,20 +12212,6 @@
             32
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-21",
-        "drawIndex": "1258",
-        "numbers": [
-            3,
-            11,
-            12,
-            14,
-            22,
-            40
-        ],
-        "bonusNumber": 41
     },
     {
         "type": "Lotto 5/35",
@@ -12266,6 +12266,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-18",
+        "drawIndex": "1257",
+        "numbers": [
+            5,
+            16,
+            19,
+            21,
+            38,
+            43
+        ],
+        "bonusNumber": 50
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-18",
         "drawIndex": "224",
@@ -12290,20 +12304,6 @@
             25
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-18",
-        "drawIndex": "1257",
-        "numbers": [
-            5,
-            16,
-            19,
-            21,
-            38,
-            43
-        ],
-        "bonusNumber": 50
     },
     {
         "type": "Lotto 5/35",
@@ -12332,6 +12332,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-16",
+        "drawIndex": "1256",
+        "numbers": [
+            14,
+            15,
+            24,
+            26,
+            27,
+            45
+        ],
+        "bonusNumber": 36
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-16",
         "drawIndex": "220",
@@ -12356,20 +12370,6 @@
             23
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-16",
-        "drawIndex": "1256",
-        "numbers": [
-            14,
-            15,
-            24,
-            26,
-            27,
-            45
-        ],
-        "bonusNumber": 36
     },
     {
         "type": "Lotto 5/35",
@@ -12398,6 +12398,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-14",
+        "drawIndex": "1255",
+        "numbers": [
+            8,
+            9,
+            16,
+            26,
+            37,
+            55
+        ],
+        "bonusNumber": 12
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-14",
         "drawIndex": "216",
@@ -12422,20 +12436,6 @@
             28
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-14",
-        "drawIndex": "1255",
-        "numbers": [
-            8,
-            9,
-            16,
-            26,
-            37,
-            55
-        ],
-        "bonusNumber": 12
     },
     {
         "type": "Lotto 5/35",
@@ -12490,6 +12490,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-11",
+        "drawIndex": "1254",
+        "numbers": [
+            3,
+            7,
+            26,
+            43,
+            44,
+            46
+        ],
+        "bonusNumber": 25
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-11",
         "drawIndex": "210",
@@ -12514,20 +12528,6 @@
             32
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-11",
-        "drawIndex": "1254",
-        "numbers": [
-            3,
-            7,
-            26,
-            43,
-            44,
-            46
-        ],
-        "bonusNumber": 25
     },
     {
         "type": "Lotto 5/35",
@@ -12556,6 +12556,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-09",
+        "drawIndex": "1253",
+        "numbers": [
+            7,
+            11,
+            21,
+            22,
+            39,
+            42
+        ],
+        "bonusNumber": 40
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-09",
         "drawIndex": "206",
@@ -12580,20 +12594,6 @@
             28
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-09",
-        "drawIndex": "1253",
-        "numbers": [
-            7,
-            11,
-            21,
-            22,
-            39,
-            42
-        ],
-        "bonusNumber": 40
     },
     {
         "type": "Lotto 5/35",
@@ -12622,6 +12622,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-07",
+        "drawIndex": "1252",
+        "numbers": [
+            19,
+            22,
+            35,
+            37,
+            43,
+            45
+        ],
+        "bonusNumber": 29
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-07",
         "drawIndex": "202",
@@ -12646,20 +12660,6 @@
             33
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-07",
-        "drawIndex": "1252",
-        "numbers": [
-            19,
-            22,
-            35,
-            37,
-            43,
-            45
-        ],
-        "bonusNumber": 29
     },
     {
         "type": "Lotto 5/35",
@@ -12714,6 +12714,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-04",
+        "drawIndex": "1251",
+        "numbers": [
+            22,
+            33,
+            35,
+            36,
+            38,
+            40
+        ],
+        "bonusNumber": 7
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-04",
         "drawIndex": "196",
@@ -12738,20 +12752,6 @@
             28
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-04",
-        "drawIndex": "1251",
-        "numbers": [
-            22,
-            33,
-            35,
-            36,
-            38,
-            40
-        ],
-        "bonusNumber": 7
     },
     {
         "type": "Lotto 5/35",
@@ -12780,6 +12780,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-10-02",
+        "drawIndex": "1250",
+        "numbers": [
+            1,
+            2,
+            20,
+            24,
+            27,
+            42
+        ],
+        "bonusNumber": 43
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-10-02",
         "drawIndex": "192",
@@ -12804,20 +12818,6 @@
             33
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-10-02",
-        "drawIndex": "1250",
-        "numbers": [
-            1,
-            2,
-            20,
-            24,
-            27,
-            42
-        ],
-        "bonusNumber": 43
     },
     {
         "type": "Lotto 5/35",
@@ -12846,6 +12846,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-30",
+        "drawIndex": "1249",
+        "numbers": [
+            17,
+            23,
+            34,
+            39,
+            46,
+            52
+        ],
+        "bonusNumber": 8
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-30",
         "drawIndex": "188",
@@ -12870,20 +12884,6 @@
             29
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-30",
-        "drawIndex": "1249",
-        "numbers": [
-            17,
-            23,
-            34,
-            39,
-            46,
-            52
-        ],
-        "bonusNumber": 8
     },
     {
         "type": "Lotto 5/35",
@@ -12938,6 +12938,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-27",
+        "drawIndex": "1248",
+        "numbers": [
+            8,
+            13,
+            19,
+            24,
+            39,
+            46
+        ],
+        "bonusNumber": 1
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-27",
         "drawIndex": "182",
@@ -12964,20 +12978,6 @@
         "bonusNumber": 7
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-27",
-        "drawIndex": "1248",
-        "numbers": [
-            8,
-            13,
-            19,
-            24,
-            39,
-            46
-        ],
-        "bonusNumber": 1
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-26",
         "drawIndex": "180",
@@ -13000,6 +13000,20 @@
             15,
             17,
             22
+        ],
+        "bonusNumber": 8
+    },
+    {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-25",
+        "drawIndex": "1247",
+        "numbers": [
+            5,
+            17,
+            30,
+            31,
+            38,
+            53
         ],
         "bonusNumber": 8
     },
@@ -13030,20 +13044,6 @@
         "bonusNumber": 6
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-25",
-        "drawIndex": "1247",
-        "numbers": [
-            5,
-            17,
-            30,
-            31,
-            38,
-            53
-        ],
-        "bonusNumber": 8
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-24",
         "drawIndex": "176",
@@ -13070,6 +13070,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-23",
+        "drawIndex": "1246",
+        "numbers": [
+            8,
+            18,
+            19,
+            34,
+            41,
+            46
+        ],
+        "bonusNumber": 38
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-23",
         "drawIndex": "174",
@@ -13094,20 +13108,6 @@
             11
         ],
         "bonusNumber": 4
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-23",
-        "drawIndex": "1246",
-        "numbers": [
-            8,
-            18,
-            19,
-            34,
-            41,
-            46
-        ],
-        "bonusNumber": 38
     },
     {
         "type": "Lotto 5/35",
@@ -13162,6 +13162,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-20",
+        "drawIndex": "1245",
+        "numbers": [
+            8,
+            13,
+            14,
+            19,
+            36,
+            43
+        ],
+        "bonusNumber": 30
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-20",
         "drawIndex": "168",
@@ -13186,20 +13200,6 @@
             35
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-20",
-        "drawIndex": "1245",
-        "numbers": [
-            8,
-            13,
-            14,
-            19,
-            36,
-            43
-        ],
-        "bonusNumber": 30
     },
     {
         "type": "Lotto 5/35",
@@ -13228,6 +13228,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-18",
+        "drawIndex": "1244",
+        "numbers": [
+            2,
+            3,
+            8,
+            27,
+            38,
+            55
+        ],
+        "bonusNumber": 20
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-18",
         "drawIndex": "164",
@@ -13252,20 +13266,6 @@
             30
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-18",
-        "drawIndex": "1244",
-        "numbers": [
-            2,
-            3,
-            8,
-            27,
-            38,
-            55
-        ],
-        "bonusNumber": 20
     },
     {
         "type": "Lotto 5/35",
@@ -13294,6 +13294,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-16",
+        "drawIndex": "1243",
+        "numbers": [
+            17,
+            19,
+            28,
+            39,
+            43,
+            53
+        ],
+        "bonusNumber": 33
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-16",
         "drawIndex": "160",
@@ -13318,20 +13332,6 @@
             29
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-16",
-        "drawIndex": "1243",
-        "numbers": [
-            17,
-            19,
-            28,
-            39,
-            43,
-            53
-        ],
-        "bonusNumber": 33
     },
     {
         "type": "Lotto 5/35",
@@ -13386,6 +13386,20 @@
         "bonusNumber": 3
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-13",
+        "drawIndex": "1242",
+        "numbers": [
+            2,
+            7,
+            15,
+            18,
+            24,
+            27
+        ],
+        "bonusNumber": 45
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-13",
         "drawIndex": "154",
@@ -13412,20 +13426,6 @@
         "bonusNumber": 8
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-13",
-        "drawIndex": "1242",
-        "numbers": [
-            2,
-            7,
-            15,
-            18,
-            24,
-            27
-        ],
-        "bonusNumber": 45
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-12",
         "drawIndex": "152",
@@ -13476,58 +13476,6 @@
             34
         ],
         "bonusNumber": 3
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-09-11",
-        "drawIndex": "150",
-        "numbers": [
-            13,
-            22,
-            25,
-            30,
-            31
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-09-11",
-        "drawIndex": "150",
-        "numbers": [
-            13,
-            22,
-            25,
-            30,
-            31
-        ],
-        "bonusNumber": 9
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-09-11",
-        "drawIndex": "149",
-        "numbers": [
-            1,
-            6,
-            25,
-            28,
-            30
-        ],
-        "bonusNumber": 2
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-09-11",
-        "drawIndex": "149",
-        "numbers": [
-            1,
-            6,
-            25,
-            28,
-            30
-        ],
-        "bonusNumber": 2
     },
     {
         "type": "Vietlott 6/55",
@@ -13545,6 +13493,58 @@
     },
     {
         "type": "Lotto 5/35",
+        "drawDate": "2025-09-11",
+        "drawIndex": "150",
+        "numbers": [
+            13,
+            22,
+            25,
+            30,
+            31
+        ],
+        "bonusNumber": 9
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-09-11",
+        "drawIndex": "150",
+        "numbers": [
+            13,
+            22,
+            25,
+            30,
+            31
+        ],
+        "bonusNumber": 9
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-09-11",
+        "drawIndex": "149",
+        "numbers": [
+            1,
+            6,
+            25,
+            28,
+            30
+        ],
+        "bonusNumber": 2
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-09-11",
+        "drawIndex": "149",
+        "numbers": [
+            1,
+            6,
+            25,
+            28,
+            30
+        ],
+        "bonusNumber": 2
+    },
+    {
+        "type": "Lotto 5/35",
         "drawDate": "2025-09-10",
         "drawIndex": "148",
         "numbers": [
@@ -13594,58 +13594,6 @@
             29
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-09-09",
-        "drawIndex": "146",
-        "numbers": [
-            11,
-            15,
-            19,
-            27,
-            33
-        ],
-        "bonusNumber": 1
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-09-09",
-        "drawIndex": "146",
-        "numbers": [
-            11,
-            15,
-            19,
-            27,
-            33
-        ],
-        "bonusNumber": 1
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-09-09",
-        "drawIndex": "145",
-        "numbers": [
-            3,
-            4,
-            21,
-            26,
-            33
-        ],
-        "bonusNumber": 5
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-09-09",
-        "drawIndex": "145",
-        "numbers": [
-            3,
-            4,
-            21,
-            26,
-            33
-        ],
-        "bonusNumber": 5
     },
     {
         "type": "Vietlott 6/55",
@@ -13662,6 +13610,58 @@
         "bonusNumber": 2
     },
     {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-09-09",
+        "drawIndex": "146",
+        "numbers": [
+            11,
+            15,
+            19,
+            27,
+            33
+        ],
+        "bonusNumber": 1
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-09-09",
+        "drawIndex": "146",
+        "numbers": [
+            11,
+            15,
+            19,
+            27,
+            33
+        ],
+        "bonusNumber": 1
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-09-09",
+        "drawIndex": "145",
+        "numbers": [
+            3,
+            4,
+            21,
+            26,
+            33
+        ],
+        "bonusNumber": 5
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-09-09",
+        "drawIndex": "145",
+        "numbers": [
+            3,
+            4,
+            21,
+            26,
+            33
+        ],
+        "bonusNumber": 5
+    },
+    {
         "type": "Vietlott 6/55",
         "drawDate": "2025-09-06",
         "drawIndex": "1239",
@@ -13674,6 +13674,20 @@
             43
         ],
         "bonusNumber": 31
+    },
+    {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-04",
+        "drawIndex": "1238",
+        "numbers": [
+            9,
+            19,
+            23,
+            42,
+            49,
+            53
+        ],
+        "bonusNumber": 40
     },
     {
         "type": "Lotto 5/35",
@@ -13702,20 +13716,6 @@
         "bonusNumber": 12
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-04",
-        "drawIndex": "1238",
-        "numbers": [
-            9,
-            19,
-            23,
-            42,
-            49,
-            53
-        ],
-        "bonusNumber": 40
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-03",
         "drawIndex": "134",
@@ -13742,6 +13742,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-09-02",
+        "drawIndex": "1237",
+        "numbers": [
+            9,
+            16,
+            22,
+            25,
+            30,
+            51
+        ],
+        "bonusNumber": 43
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-09-02",
         "drawIndex": "132",
@@ -13766,20 +13780,6 @@
             31
         ],
         "bonusNumber": 2
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-09-02",
-        "drawIndex": "1237",
-        "numbers": [
-            9,
-            16,
-            22,
-            25,
-            30,
-            51
-        ],
-        "bonusNumber": 43
     },
     {
         "type": "Lotto 5/35",
@@ -13834,6 +13834,20 @@
         "bonusNumber": 11
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-08-30",
+        "drawIndex": "1236",
+        "numbers": [
+            2,
+            17,
+            19,
+            24,
+            30,
+            44
+        ],
+        "bonusNumber": 34
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-08-30",
         "drawIndex": "126",
@@ -13858,20 +13872,6 @@
             27
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-08-30",
-        "drawIndex": "1236",
-        "numbers": [
-            2,
-            17,
-            19,
-            24,
-            30,
-            44
-        ],
-        "bonusNumber": 34
     },
     {
         "type": "Lotto 5/35",
@@ -14258,6 +14258,19 @@
     {
         "type": "Lotto 5/35",
         "drawDate": "2025-08-17",
+        "drawIndex": "100",
+        "numbers": [
+            1,
+            5,
+            12,
+            27,
+            30
+        ],
+        "bonusNumber": 3
+    },
+    {
+        "type": "Lotto 5/35",
+        "drawDate": "2025-08-17",
         "drawIndex": "99",
         "numbers": [
             15,
@@ -14269,17 +14282,18 @@
         "bonusNumber": 4
     },
     {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-08-17",
-        "drawIndex": "100",
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-08-16",
+        "drawIndex": "1230",
         "numbers": [
-            1,
-            5,
-            12,
-            27,
-            30
+            14,
+            23,
+            32,
+            36,
+            47,
+            48
         ],
-        "bonusNumber": 3
+        "bonusNumber": 5
     },
     {
         "type": "Lotto 5/35",
@@ -14308,20 +14322,6 @@
         "bonusNumber": 3
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-08-16",
-        "drawIndex": "1230",
-        "numbers": [
-            14,
-            23,
-            32,
-            36,
-            47,
-            48
-        ],
-        "bonusNumber": 5
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2025-08-15",
         "drawIndex": "96",
@@ -14346,6 +14346,20 @@
             34
         ],
         "bonusNumber": 8
+    },
+    {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-08-14",
+        "drawIndex": "1229",
+        "numbers": [
+            6,
+            10,
+            17,
+            18,
+            32,
+            35
+        ],
+        "bonusNumber": 53
     },
     {
         "type": "Lotto 5/35",
@@ -14374,20 +14388,6 @@
         "bonusNumber": 10
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-08-14",
-        "drawIndex": "1229",
-        "numbers": [
-            6,
-            10,
-            17,
-            18,
-            32,
-            35
-        ],
-        "bonusNumber": 53
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2025-08-13",
         "drawIndex": "92",
@@ -14414,6 +14414,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-08-12",
+        "drawIndex": "1228",
+        "numbers": [
+            1,
+            6,
+            24,
+            37,
+            40,
+            55
+        ],
+        "bonusNumber": 10
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-08-12",
         "drawIndex": "90",
@@ -14438,20 +14452,6 @@
             33
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-08-12",
-        "drawIndex": "1228",
-        "numbers": [
-            1,
-            6,
-            24,
-            37,
-            40,
-            55
-        ],
-        "bonusNumber": 10
     },
     {
         "type": "Lotto 5/35",
@@ -14506,6 +14506,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-08-09",
+        "drawIndex": "1227",
+        "numbers": [
+            5,
+            9,
+            16,
+            36,
+            43,
+            51
+        ],
+        "bonusNumber": 19
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-08-09",
         "drawIndex": "84",
@@ -14530,20 +14544,6 @@
             28
         ],
         "bonusNumber": 10
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-08-09",
-        "drawIndex": "1227",
-        "numbers": [
-            5,
-            9,
-            16,
-            36,
-            43,
-            51
-        ],
-        "bonusNumber": 19
     },
     {
         "type": "Lotto 5/35",
@@ -14572,6 +14572,20 @@
         "bonusNumber": 6
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-08-07",
+        "drawIndex": "1226",
+        "numbers": [
+            6,
+            24,
+            31,
+            32,
+            39,
+            48
+        ],
+        "bonusNumber": 52
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-08-07",
         "drawIndex": "80",
@@ -14596,20 +14610,6 @@
             30
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-08-07",
-        "drawIndex": "1226",
-        "numbers": [
-            6,
-            24,
-            31,
-            32,
-            39,
-            48
-        ],
-        "bonusNumber": 52
     },
     {
         "type": "Lotto 5/35",
@@ -14638,6 +14638,20 @@
         "bonusNumber": 4
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-08-05",
+        "drawIndex": "1225",
+        "numbers": [
+            8,
+            41,
+            45,
+            51,
+            52,
+            53
+        ],
+        "bonusNumber": 31
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-08-05",
         "drawIndex": "76",
@@ -14662,20 +14676,6 @@
             34
         ],
         "bonusNumber": 1
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-08-05",
-        "drawIndex": "1225",
-        "numbers": [
-            8,
-            41,
-            45,
-            51,
-            52,
-            53
-        ],
-        "bonusNumber": 31
     },
     {
         "type": "Lotto 5/35",
@@ -14730,6 +14730,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-08-02",
+        "drawIndex": "1224",
+        "numbers": [
+            12,
+            24,
+            29,
+            33,
+            34,
+            35
+        ],
+        "bonusNumber": 47
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-08-02",
         "drawIndex": "70",
@@ -14754,20 +14768,6 @@
             25
         ],
         "bonusNumber": 11
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-08-02",
-        "drawIndex": "1224",
-        "numbers": [
-            12,
-            24,
-            29,
-            33,
-            34,
-            35
-        ],
-        "bonusNumber": 47
     },
     {
         "type": "Lotto 5/35",
@@ -14796,6 +14796,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-31",
+        "drawIndex": "1223",
+        "numbers": [
+            5,
+            17,
+            31,
+            42,
+            46,
+            49
+        ],
+        "bonusNumber": 37
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-31",
         "drawIndex": "66",
@@ -14820,20 +14834,6 @@
             34
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-31",
-        "drawIndex": "1223",
-        "numbers": [
-            5,
-            17,
-            31,
-            42,
-            46,
-            49
-        ],
-        "bonusNumber": 37
     },
     {
         "type": "Lotto 5/35",
@@ -14862,6 +14862,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-29",
+        "drawIndex": "1222",
+        "numbers": [
+            4,
+            8,
+            23,
+            43,
+            45,
+            51
+        ],
+        "bonusNumber": 48
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-29",
         "drawIndex": "62",
@@ -14886,20 +14900,6 @@
             29
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-29",
-        "drawIndex": "1222",
-        "numbers": [
-            4,
-            8,
-            23,
-            43,
-            45,
-            51
-        ],
-        "bonusNumber": 48
     },
     {
         "type": "Lotto 5/35",
@@ -14954,6 +14954,20 @@
         "bonusNumber": 8
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-26",
+        "drawIndex": "1221",
+        "numbers": [
+            5,
+            26,
+            28,
+            29,
+            33,
+            54
+        ],
+        "bonusNumber": 34
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-26",
         "drawIndex": "56",
@@ -14978,20 +14992,6 @@
             23
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-26",
-        "drawIndex": "1221",
-        "numbers": [
-            5,
-            26,
-            28,
-            29,
-            33,
-            54
-        ],
-        "bonusNumber": 34
     },
     {
         "type": "Lotto 5/35",
@@ -15020,6 +15020,20 @@
         "bonusNumber": 7
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-24",
+        "drawIndex": "1220",
+        "numbers": [
+            5,
+            10,
+            24,
+            29,
+            30,
+            34
+        ],
+        "bonusNumber": 45
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-24",
         "drawIndex": "52",
@@ -15044,20 +15058,6 @@
             33
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-24",
-        "drawIndex": "1220",
-        "numbers": [
-            5,
-            10,
-            24,
-            29,
-            30,
-            34
-        ],
-        "bonusNumber": 45
     },
     {
         "type": "Lotto 5/35",
@@ -15086,6 +15086,20 @@
         "bonusNumber": 5
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-22",
+        "drawIndex": "1219",
+        "numbers": [
+            9,
+            10,
+            15,
+            28,
+            33,
+            44
+        ],
+        "bonusNumber": 22
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-22",
         "drawIndex": "48",
@@ -15110,20 +15124,6 @@
             25
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-22",
-        "drawIndex": "1219",
-        "numbers": [
-            9,
-            10,
-            15,
-            28,
-            33,
-            44
-        ],
-        "bonusNumber": 22
     },
     {
         "type": "Lotto 5/35",
@@ -15178,6 +15178,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-19",
+        "drawIndex": "1218",
+        "numbers": [
+            8,
+            9,
+            20,
+            36,
+            39,
+            44
+        ],
+        "bonusNumber": 28
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-19",
         "drawIndex": "42",
@@ -15202,20 +15216,6 @@
             30
         ],
         "bonusNumber": 11
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-19",
-        "drawIndex": "1218",
-        "numbers": [
-            8,
-            9,
-            20,
-            36,
-            39,
-            44
-        ],
-        "bonusNumber": 28
     },
     {
         "type": "Lotto 5/35",
@@ -15244,6 +15244,20 @@
         "bonusNumber": 2
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-17",
+        "drawIndex": "1217",
+        "numbers": [
+            13,
+            18,
+            33,
+            40,
+            48,
+            53
+        ],
+        "bonusNumber": 54
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-17",
         "drawIndex": "38",
@@ -15268,20 +15282,6 @@
             29
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-17",
-        "drawIndex": "1217",
-        "numbers": [
-            13,
-            18,
-            33,
-            40,
-            48,
-            53
-        ],
-        "bonusNumber": 54
     },
     {
         "type": "Lotto 5/35",
@@ -15310,6 +15310,20 @@
         "bonusNumber": 9
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-15",
+        "drawIndex": "1216",
+        "numbers": [
+            18,
+            26,
+            31,
+            32,
+            36,
+            48
+        ],
+        "bonusNumber": 30
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-15",
         "drawIndex": "34",
@@ -15334,20 +15348,6 @@
             26
         ],
         "bonusNumber": 6
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-15",
-        "drawIndex": "1216",
-        "numbers": [
-            18,
-            26,
-            31,
-            32,
-            36,
-            48
-        ],
-        "bonusNumber": 30
     },
     {
         "type": "Lotto 5/35",
@@ -15402,6 +15402,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-12",
+        "drawIndex": "1215",
+        "numbers": [
+            2,
+            34,
+            39,
+            41,
+            45,
+            52
+        ],
+        "bonusNumber": 51
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-12",
         "drawIndex": "28",
@@ -15426,20 +15440,6 @@
             35
         ],
         "bonusNumber": 7
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-12",
-        "drawIndex": "1215",
-        "numbers": [
-            2,
-            34,
-            39,
-            41,
-            45,
-            52
-        ],
-        "bonusNumber": 51
     },
     {
         "type": "Lotto 5/35",
@@ -15468,6 +15468,20 @@
         "bonusNumber": 1
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-10",
+        "drawIndex": "1214",
+        "numbers": [
+            12,
+            33,
+            34,
+            42,
+            44,
+            53
+        ],
+        "bonusNumber": 3
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-10",
         "drawIndex": "24",
@@ -15492,20 +15506,6 @@
             30
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-10",
-        "drawIndex": "1214",
-        "numbers": [
-            12,
-            33,
-            34,
-            42,
-            44,
-            53
-        ],
-        "bonusNumber": 3
     },
     {
         "type": "Lotto 5/35",
@@ -15534,6 +15534,20 @@
         "bonusNumber": 12
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-08",
+        "drawIndex": "1213",
+        "numbers": [
+            23,
+            24,
+            32,
+            42,
+            48,
+            50
+        ],
+        "bonusNumber": 31
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-08",
         "drawIndex": "20",
@@ -15558,20 +15572,6 @@
             31
         ],
         "bonusNumber": 8
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-08",
-        "drawIndex": "1213",
-        "numbers": [
-            23,
-            24,
-            32,
-            42,
-            48,
-            50
-        ],
-        "bonusNumber": 31
     },
     {
         "type": "Lotto 5/35",
@@ -15626,6 +15626,20 @@
         "bonusNumber": 10
     },
     {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-05",
+        "drawIndex": "1212",
+        "numbers": [
+            3,
+            15,
+            22,
+            45,
+            51,
+            55
+        ],
+        "bonusNumber": 54
+    },
+    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-05",
         "drawIndex": "14",
@@ -15652,20 +15666,6 @@
         "bonusNumber": 5
     },
     {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-05",
-        "drawIndex": "1212",
-        "numbers": [
-            3,
-            15,
-            22,
-            45,
-            51,
-            55
-        ],
-        "bonusNumber": 54
-    },
-    {
         "type": "Lotto 5/35",
         "drawDate": "2025-07-04",
         "drawIndex": "12",
@@ -15688,19 +15688,6 @@
             7,
             10,
             24
-        ],
-        "bonusNumber": 8
-    },
-    {
-        "type": "Lotto 5/35",
-        "drawDate": "2025-07-03",
-        "drawIndex": "9",
-        "numbers": [
-            28,
-            32,
-            33,
-            34,
-            35
         ],
         "bonusNumber": 8
     },
@@ -15733,6 +15720,19 @@
     },
     {
         "type": "Lotto 5/35",
+        "drawDate": "2025-07-03",
+        "drawIndex": "9",
+        "numbers": [
+            28,
+            32,
+            33,
+            34,
+            35
+        ],
+        "bonusNumber": 8
+    },
+    {
+        "type": "Lotto 5/35",
         "drawDate": "2025-07-02",
         "drawIndex": "8",
         "numbers": [
@@ -15756,6 +15756,20 @@
             35
         ],
         "bonusNumber": 1
+    },
+    {
+        "type": "Vietlott 6/55",
+        "drawDate": "2025-07-01",
+        "drawIndex": "1210",
+        "numbers": [
+            3,
+            11,
+            12,
+            14,
+            27,
+            33
+        ],
+        "bonusNumber": 15
     },
     {
         "type": "Lotto 5/35",
@@ -15782,20 +15796,6 @@
             33
         ],
         "bonusNumber": 5
-    },
-    {
-        "type": "Vietlott 6/55",
-        "drawDate": "2025-07-01",
-        "drawIndex": "1210",
-        "numbers": [
-            3,
-            11,
-            12,
-            14,
-            27,
-            33
-        ],
-        "bonusNumber": 15
     },
     {
         "type": "Lotto 5/35",
